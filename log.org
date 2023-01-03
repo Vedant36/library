@@ -1,20 +1,23 @@
-|-------------------------+----------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
-| Username                | Username | Roll No.  | Batch    |  Time |     Date | Author                    | Title                                       | Returned Date |
-|-------------------------+----------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
-| Sumit Rajput            |          | -         | BSc 1    | 14:22 | 10.09.22 | Michael Artin             | Algebra                                     |      26.11.22 |
-| Shrinidhi TS            |          | -         | MSc CS 1 | 14:49 | 10.09.22 | Hernstein                 | Topics in Algebra                           |      30.11.22 |
-| Suhita Hazra            |          | -         | PhD 2    | 15:32 | 10.09.22 | Apostol                   | Mathematical analysis                       |      30.11.22 |
-| Suhita Hazra            |          | -         | PhD 2    | 15:32 | 10.09.22 | Rudin                     | Prinicples of mathematical analysis         |      20.11.22 |
-| shreenish               |          | -         | BSc 1    | 17:38 | 13.09.22 | Jhumpa Lahiri             | The Namesake                                |               |
-| Abdul Aleem             |          | -         | BSc 2    | 18:36 | 03.10.22 | L.D.Landau, E.M. Lifshitz | Quantum Mechanics (Non-relativistic Theory) |      13.11.22 |
-| Ishaan Verma            |          | -         | BSc 2    | 19:42 | 03.10.22 | Dromey                    | How to Solve it by Computer                 |      29.11.22 |
-| Priyangshu Ghosh        |          | -         | BSc 1    | 20:00 | 03.10.22 | Michael Artin             | Algebra - 2nd edition                       |      26.11.22 |
-| Shakti Chauhan          |          | -         | BSc 2    | 23:46 | 13.10.22 | Herstein                  | Topics in Algebra                           |               |
-| Shakti Chauhan          |          | -         | BSc 2    | 23:46 | 13.10.22 | Rudin                     | Principles of Mathematical Analysis         |               |
-| Bhavya Sangwan          |          | -         | BSc 2    | 23:46 | 13.10.22 | Artin                     | Algebra                                     |               |
-| Bhavya Sangwan          |          | -         | BSc 2    | 23:46 | 13.10.22 | Goldstein, Poole, Safko   | Classical Mechanics                         |               |
-| Nabin Kumar Sahoo       |          | -         | MSc 1    | 18:26 | 08.11.22 | Umberto Eco               | On Literature                               |      30.11.22 |
-| Shankadip Bhattacharjee |          | BMP202005 |          | 18:23 | 15.11.22 | CLRS                      | Introduction to Algorithms                  |      30.11.22 |
-| Shubham Kumar           | shubhamk |           |          | 12:24 | 13.11.22 | L.D.Landau, E.M. Lifshitz | Quantum Mechanics (Non-relativistic Theory) |               |
-| Amit Pareek             | amitp    | -         | BSc CS 2 |     - |        - | L. Frank Baum             | Wizard of Oz                                |      26.11.22 |
-|-------------------------+----------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
+|-------------------------+-------------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
+| Username                | Username    | Roll No.  | Batch    |  Time |     Date | Author                    | Title                                       | Returned Date |
+|-------------------------+-------------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
+| Sumit Rajput            |             | -         | BSc 1    | 14:22 | 10.09.22 | Michael Artin             | Algebra                                     |      26.11.22 |
+| Shrinidhi TS            |             | -         | MSc CS 1 | 14:49 | 10.09.22 | Hernstein                 | Topics in Algebra                           |      30.11.22 |
+| Suhita Hazra            |             | -         | PhD 2    | 15:32 | 10.09.22 | Apostol                   | Mathematical analysis                       |      30.11.22 |
+| Suhita Hazra            |             | -         | PhD 2    | 15:32 | 10.09.22 | Rudin                     | Prinicples of mathematical analysis         |      20.11.22 |
+| shreenish               |             | -         | BSc 1    | 17:38 | 13.09.22 | Jhumpa Lahiri             | The Namesake                                |               |
+| Abdul Aleem             |             | -         | BSc 2    | 18:36 | 03.10.22 | L.D.Landau, E.M. Lifshitz | Quantum Mechanics (Non-relativistic Theory) |      13.11.22 |
+| Ishaan Verma            |             | -         | BSc 2    | 19:42 | 03.10.22 | Dromey                    | How to Solve it by Computer                 |      29.11.22 |
+| Priyangshu Ghosh        |             | -         | BSc 1    | 20:00 | 03.10.22 | Michael Artin             | Algebra - 2nd edition                       |      26.11.22 |
+| Shakti Chauhan          |             | -         | BSc 2    | 23:46 | 13.10.22 | Herstein                  | Topics in Algebra                           |               |
+| Shakti Chauhan          |             | -         | BSc 2    | 23:46 | 13.10.22 | Rudin                     | Principles of Mathematical Analysis         |               |
+| Bhavya Sangwan          |             | -         | BSc 2    | 23:46 | 13.10.22 | Artin                     | Algebra                                     |               |
+| Bhavya Sangwan          |             | -         | BSc 2    | 23:46 | 13.10.22 | Goldstein, Poole, Safko   | Classical Mechanics                         |               |
+| Nabin Kumar Sahoo       |             | -         | MSc 1    | 18:26 | 08.11.22 | Umberto Eco               | On Literature                               |      30.11.22 |
+| Shankadip Bhattacharjee |             | BMP202005 |          | 18:23 | 15.11.22 | CLRS                      | Introduction to Algorithms                  |      30.11.22 |
+| Shubham Kumar           | shubhamk    |           |          | 12:24 | 13.11.22 | L.D.Landau, E.M. Lifshitz | Quantum Mechanics (Non-relativistic Theory) |               |
+| Amit Pareek             | amitp       | -         | BSc CS 2 |     - |        - | L. Frank Baum             | Wizard of Oz                                |      26.11.22 |
+| Rishabh Sharma          |             | BMC202144 |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
+| Shrimadhi Srikanth      |             | BMC202167 |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
+| Naveen Surya            | naveensurya |           |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
+|-------------------------+-------------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
