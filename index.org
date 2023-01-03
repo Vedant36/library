@@ -1,0 +1,24 @@
+#+OPTIONS: toc:nil num:nil
+* The Student's Library
+
+** Index
+
+1. [[./bs1.html][Novels/Fiction]]
+2. [[./bs2.html][Math/Physics]]
+3. [[./bs3.html][CS/Magazines/Misc]]
+
+Mail any errors in the index to vedantn@cmi.ac.in
+
+** Current Key Holders
+
+Vedant Neema <vedantn@cmi.ac.in>
+
+Shashwat Asthana <shashwata@cmi.ac.in>
+
+** Protocol for borrowing
+
+When: Tuesday(1800-1830), Saturday(1800-1830)
+
+Where: Common Room
+
+Please return books by the last week of the semester.

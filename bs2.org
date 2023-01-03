@@ -1,0 +1,100 @@
+#+ATTR_HTML: :border 2 :frame all :rules all
+|------------------------------------------------------------+-------------------------------------------------------------------+----------------------------|
+| Author                                                     | Title                                                             | Notes                      |
+|------------------------------------------------------------+-------------------------------------------------------------------+----------------------------|
+| Alvin Halpern                                              | Schaum's - 3000 Solved Problems in Physics                        |                            |
+| David J. Griffiths                                         | Introduction to Electrodynamics                                   |                            |
+| Daniel V. Schroeder                                        | Introduction to Thermal Physics                                   |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 5th edition                    |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 6th edition                    |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 6th edition                    |                            |
+| L.D.Landau, E.M. Lifshitz                                  | Quantum Mechanics (Non-relativistic Theory)                       |                            |
+| Bruce Cameron Reed                                         | Quantum Mechanics                                                 |                            |
+| Mark W. Zemansky, Richard H. Dittman                       | Heat and Thermodynamics                                           |                            |
+| Feynman, Leighton, Sands                                   | The Feynman Lectures on Physics                                   |                            |
+| Franics A. Jenkins, Harvey E. White                        | Fundamentals of Optics                                            |                            |
+| Kittel, Knight, Ruderman, Helmholz, Moyer                  | Berkeley Physics Course - Volume 1 (Mechanics)                    |                            |
+| Goldstein, Poole, Safko                                    | Classical Mechanics                                               |                            |
+| Sears, Zemansky, Young                                     | University Physics - 6th edition                                  |                            |
+| Sears, Zemansky, Young                                     | University Physics - 6th edition                                  |                            |
+| Ramaswamy, Roy, Gupte                                      | Proceedings of the conference PNLD 2004                           |                            |
+| Sridhar, Ravi, Kamaraj, Vijayan                            | Interactive Physics - Volume 7 (Electromagenetism)                |                            |
+| Khaparde, Pradhan                                          | Innovative Experimental Problems and Demonstrations in Physics    |                            |
+| I.E. Irodov                                                | Problems in General Physics                                       |                            |
+| I.E. Irodov                                                | Problems in General Physics                                       |                            |
+| I.E. Irodov                                                | Problems in General Physics                                       |                            |
+| Thornton, Marion                                           | Classical Dynamics of Particles and Systems                       |                            |
+| Yung-Kao Lim                                               | Problems and Solutions on Mechanics                               | Lim is actually the Editor |
+| Kleppner, Kolenkow                                         | An Introduction to Mechanics                                      |                            |
+| G. Venkataraman                                            | Chandrashekhar and his Limit                                      |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                             |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                             |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                             |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                             | Without cover page         |
+| Hoffman, Kunze                                             | Linear Algebra                                                    |                            |
+| Hoffman, Kunze                                             | Linear Algebra                                                    |                            |
+| Hoffman, Kunze                                             | Linear Algebra                                                    |                            |
+| Gilbert Strang                                             | Linear Algebra and Its Applications                               |                            |
+| Gilbert Strang                                             | Linear Algebra and Its Applications                               |                            |
+| Nikolsky, Potapov                                          | Algebra                                                           |                            |
+| S. Kumaresan                                               | Linear Algebra - A Geometric Approach                             |                            |
+| Halmos                                                     | Finite-Dimensional Vector Spaces                                  |                            |
+| Niven, Zuckerman, Montgomery                               | An Introduction to The Theory of Numbers                          |                            |
+| I.A. Maron                                                 | Problems in Calculus of One Variable                              |                            |
+| I.A. Maron                                                 | Problems in Calculus of One Variable                              |                            |
+| Terence Tao                                                | Analysis 1                                                        |                            |
+| S.K. Mapa                                                  | Introduction to Real Analysis - revised 6th edition               |                            |
+| Bartle, Sherbert                                           | Introduction to Real Analysis - 4th edition                       |                            |
+| Bartle, Sherbert                                           | Introduction to Real Analysis - 3th edition                       |                            |
+| Apostol                                                    | Mathematical Analysis - 2nd edition                               |                            |
+| G.N. Berman                                                | A Problem Book in Mathematical Analysis                           |                            |
+| Walter Rudin                                               | Principles of Mathematical Analysis                               |                            |
+| Walter Rudin                                               | Principles of Mathematical Analysis                               |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| Apostol                                                    | Calculus - 2nd edition                                            |                            |
+| David C. Kay                                               | Shcaum's outlines - Tensor Calculus                               |                            |
+| Krishnamurthy, Pranesachar, Ranganathan, B.J. Venkatachala | Challenge and Thrill of Pre-College Mathematics                   |                            |
+| John B. Conway                                             | Functions of One Complex Variable                                 |                            |
+| John B. Fraleigh                                           | A First Course in Abstract Algebra                                |                            |
+| John B. Fraleigh                                           | A First Course in Abstract Algebra                                |                            |
+| Grimmet, Stirzaker                                         | Probablity and Random Processes                                   |                            |
+| George F. Simons                                           | Topology and Modern Analysis                                      |                            |
+| Sevastyanov, Chistyakov, Zubkov                            | Problems in the Theory of Probablity                              |                            |
+| Banerjee, S.K. DE, S. Sen                                  | Mathematical Probablity                                           |                            |
+| Gupta, Pandey, Malik                                       | Tensors and Differential Geometry                                 |                            |
+| S.L. Loney                                                 | The Elements of Coordinate Geometry                               |                            |
+| The Association of Mathematics Teachers of India           | The Mathematics Teacher                                           |                            |
+| Shakir Hussain                                             | Mathematics Tools for Physics                                     |                            |
+| G.F. Simmons                                               | Introduction to Topology and Modern Analysis                      |                            |
+| G.F. Simmons                                               | Introduction to Topology and Modern Analysis                      |                            |
+| William M. Boothby                                         | An Introduction to Differential Manifolds and Riemannian Geometry |                            |
+| Venkatachala                                               | Functional Equations - Second Edition                             |                            |
+| Farmer, Stanford                                           | Knots and Surfaces                                                |                            |
+| Munkres                                                    | Topology - US Edition                                             |                            |
+| Munkres                                                    | Topology - US Edition                                             |                            |
+| Munkres                                                    | Topology - Second Edition                                         |                            |
+| Munkres                                                    | Topology - Second Edition                                         |                            |
+| Munkres                                                    | Topology - Second Edition                                         |                            |
+| Spiegel                                                    | Theory and Problems of Vector Analysis - Schaum's Outline Series  |                            |
+| Coddington                                                 | An Introduction to Ordinary Differential Equations                |                            |
+| Balakrishnan                                               | Combinatorics - Schaum's Theory and Problems                      |                            |
+| Leithold                                                   | The Calculus with Analytic Geometry                               |                            |
+| Debra Ross                                                 | Master Math: Calculus                                             |                            |
+| Feller                                                     | An Introduction to Probability Theory and its Applications        |                            |
+| Hazewinkel, Lenstra, Meertens                              | Mathematics and Computer Science II                               |                            |
+| Gallian                                                    | Contemporary Abstract Algebra                                     |                            |
+| Jain, Ahmad                                                | Metric Spaces - Second Edition                                    |                            |
+| Niven, Zuckerman, Montgomery                               | An Introduction to the Theory of Numbers                          |                            |
+| West                                                       | Introduction to Graph Theory - Second Edition                     |                            |
+| Ross                                                       | Elementary Analysis: The Theory of Calculus                       |                            |
+|------------------------------------------------------------+-------------------------------------------------------------------+----------------------------|

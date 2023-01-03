@@ -1,0 +1,8 @@
+* Student's Library
+** SOP
+1. Open only a single cupboard at a time.
+2. A person can't take more than 2 books at a time, except for special circumstances.
+3. Information needed for every person: Batch, Full name, Date&Time, etc.
+4. The student managing the Student's Library has free control over the change of rules at any time.
+5. The student currently managing the Student's Library is Vedant Neema BMC202273.
+** Tasks

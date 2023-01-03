@@ -1,0 +1,14 @@
+#+ATTR_HTML: :border 2 :frame all :rules all
+|----------------------------------+------------------------------------------------------+------------|
+| Author                           | Title                                                | Notes      |
+|----------------------------------+------------------------------------------------------+------------|
+| Dromey                           | How to Solve it                                      |            |
+| Narasimha Karumanchi             | Data Structures and Algorithms Made Easy             |            |
+| Byron Gottfried                  | Schaum's outlines - Programming with C - 2nd edition |            |
+| Keith D. Cooper, Linda Torczon   | Engineering a Compiler                               |            |
+| Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                            | CLRS, CRLS |
+| Langsam, Augenstein, Tenenbaum   | Data Structures using C and C++                      |            |
+| Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools         |            |
+| Yashavant Kanetkar               | Let us C - 3rd edition                               |            |
+|----------------------------------+------------------------------------------------------+------------|
+
