@@ -20,4 +20,7 @@
 | Rishabh Sharma          |             | BMC202144 |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
 | Shrimadhi Srikanth      |             | BMC202167 |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
 | Naveen Surya            | naveensurya |           |          | 18:50 | 03.01.23 | Munkres                   | Topology                                    |               |
+| Priyangshu Ghosh        |             | BMC202240 |          | 19:28 | 11.01.23 | Apostol                   | Mathematical Analysis                       |               |
+| Priyangshu Ghosh        |             | BMC202240 |          | 19:28 | 11.01.23 | Herstein                  | Topics in Algebra                           |               |
+| Srinivas                |             | MCS202109 |          | 21:06 | 11.01.23 | J.R.R Tolkein             | The Hobbit                                  |               |
 |-------------------------+-------------+-----------+----------+-------+----------+---------------------------+---------------------------------------------+---------------|
