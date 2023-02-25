@@ -2,6 +2,8 @@
 |-----------------------------------------+------------------------------------------------------------+------------------------------|
 | Author                                  | Title                                                      | Notes                        |
 |-----------------------------------------+------------------------------------------------------------+------------------------------|
+| Robin Cook                              | Nano                                                       |                              |
+| Laurence Gardener                       | The Magdalene Legacy                                       |                              |
 | Jeffery Archer                          | A Prison Diary                                             |                              |
 | Jeffery Archer                          | A Prison Diary                                             |                              |
 | Jeffery Archer                          | A Prison Diary II                                          |                              |
@@ -72,6 +74,7 @@
 | W. Somerset Maughan                     | The Summing Up                                             |                              |
 | David Lan                               | Desire and Other Plays                                     |                              |
 | Elliot Engel                            | How Oscar Became Wilde                                     |                              |
+| Jhumpa Lahiri                           | The Namesake                                               |                              |
 | APJ Abdul Kalam, YS Rajan               | India 2020                                                 |                              |
 | APJ Abdul Kalam                         | Wings of Fire                                              |                              |
 | APJ Abdul Kalam                         | Ignited Minds                                              |                              |
@@ -106,6 +109,11 @@
 | L.I. Brezhnev                           | Following Lenin's Course                                   |                              |
 | Charles Darwin                          | The Origin of Species                                      |                              |
 | Arun Kumar Singh                        | The Comprehensive History of Psychology                    |                              |
+| Chetan Bhagat                           | five point someone                                         |                              |
+| Chetan Bhagat                           | 2 states                                                   |                              |
+| John Grisham                            | The Pelican Brief                                          |                              |
+| John Grisham                            | The Client                                                 |                              |
+| John Grisham                            | The Runaway Jury                                           |                              |
 | Vikram Seth                             | A Suitable Boy                                             |                              |
 | R. K. Narayan                           | A Town Called Malgudi                                      |                              |
 | R. K. Narayan                           | The Dark Room                                              |                              |

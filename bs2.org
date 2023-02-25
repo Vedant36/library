@@ -11,7 +11,7 @@
 | L.D.Landau, E.M. Lifshitz                                  | Quantum Mechanics (Non-relativistic Theory)                       |                            |
 | Bruce Cameron Reed                                         | Quantum Mechanics                                                 |                            |
 | Mark W. Zemansky, Richard H. Dittman                       | Heat and Thermodynamics                                           |                            |
-| Feynman, Leighton, Sands                                   | The Feynman Lectures on Physics                                   |                            |
+| Feynman, Leighton, Sands                                   | The Feynman Lectures on Physics Volume 2                          |                            |
 | Franics A. Jenkins, Harvey E. White                        | Fundamentals of Optics                                            |                            |
 | Kittel, Knight, Ruderman, Helmholz, Moyer                  | Berkeley Physics Course - Volume 1 (Mechanics)                    |                            |
 | Goldstein, Poole, Safko                                    | Classical Mechanics                                               |                            |
