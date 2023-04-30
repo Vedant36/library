@@ -27,7 +27,7 @@
 | Bhavya Sangwan          |             | BMP202104 |          | 22:55 | 12.01.23 | Arthur Engel                     | Problem-Solving Strategies                   |               |
 | Bhavya Sangwan          |             | BMP202104 |          | 22:55 | 12.01.23 | Jenkins, White                   | Fundamentals of Optics                       |               |
 | Bhavya Sangwan          |             | BMP202104 |          | 22:55 | 12.01.23 | Hatcher                          | Algebraic Topology                           |               |
-| Ankan Mukherjee         |             | BMP202203 |          | 18:21 | 28.01.23 | Rudin                            | Analysis                                     |               |
+| Ankan Mukherjee         |             | BMP202203 |          | 18:21 | 28.01.23 | Rudin                            | Analysis                                     |      30.04.23 |
 | Adarsh T                |             | BMP202001 |          | 16:28 | 29.01.23 | Coddington                       | Intro to ODE                                 |      29.04.23 |
 | T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Dromey                           | How to Solve it                              |      01.04.23 |
 | T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                    |      28.04.23 |
