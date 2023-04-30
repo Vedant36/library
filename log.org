@@ -38,5 +38,4 @@
 | Swaminathan Rajagopalan |             | BMC202184 |          | 19:46 | 21.03.23 | P.G. Wodehouse                   | The World of Psmith (omnibus)                |      28.04.23 |
 | Anhad Chaturvedi        |             |           |          |     * |        * | Feynman, Leighton, Sands         | The Feynman Lectures on Physics Volume 2     |               |
 | Sahil Lakhmani          |             | BMC202248 |          | 18:00 | 13.04.23 | Micheal Artin                    | Algebra - 2nd Edition                        |      29.04.23 |
-| Ankun Mukherjee         |             | *         |          |     * |        * | Walter Rudin                     | Principles of Mathematical Analysis          | 30.04.23      |
 |-------------------------+-------------+-----------+----------+-------+----------+----------------------------------+----------------------------------------------+---------------|
