@@ -18,7 +18,7 @@
 | Shubham Kumar           | shubhamk    |           |          | 12:24 | 13.11.22 | L.D.Landau, E.M. Lifshitz        | Quantum Mechanics (Non-relativistic Theory)  |      05.01.23 |
 | Amit Pareek             | amitp       | -         | BSc CS 2 |     - |        - | L. Frank Baum                    | Wizard of Oz                                 |      26.11.22 |
 |-------------------------+-------------+-----------+----------+-------+----------+----------------------------------+----------------------------------------------+---------------|
-| Rishabh Sharma          |             | BMC202144 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                     |               |
+| Rishabh Sharma          |             | BMC202144 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                     |      28.04.23 |
 | Shrimadhi Srikanth      |             | BMC202167 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                     |               |
 | Naveen Surya            | naveensurya |           |          | 18:50 | 03.01.23 | Munkres                          | Topology                                     |               |
 | Priyangshu Ghosh        |             | BMC202240 |          | 19:28 | 11.01.23 | Apostol                          | Mathematical Analysis                        |               |
@@ -28,12 +28,14 @@
 | Bhavya Sangwan          |             | BMP202104 |          | 22:55 | 12.01.23 | Jenkins, White                   | Fundamentals of Optics                       |               |
 | Bhavya Sangwan          |             | BMP202104 |          | 22:55 | 12.01.23 | Hatcher                          | Algebraic Topology                           |               |
 | Ankan Mukherjee         |             | BMP202203 |          | 18:21 | 28.01.23 | Rudin                            | Analysis                                     |               |
-| Adarsh T                |             | BMP202001 |          | 16:28 | 29.01.23 | Coddington                       | Intro to ODE                                 |               |
-| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Dromey                           | How to Solve it                              |               |
-| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                    |               |
-| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools |               |
-| Atharva Raje            |             | MMA202202 |          | 18:40 | 25.02.23 | John B. Conway                   | Functions of One Complex Variable            |               |
+| Adarsh T                |             | BMP202001 |          | 16:28 | 29.01.23 | Coddington                       | Intro to ODE                                 |      29.04.23 |
+| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Dromey                           | How to Solve it                              |      01.04.23 |
+| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                    |      28.04.23 |
+| T Karthik Rajendra      |             | BMC202046 |          | 18:23 | 25.02.23 | Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools |      01.04.23 |
+| Atharva Raje            |             | MMA202202 |          | 18:40 | 25.02.23 | John B. Conway                   | Functions of One Complex Variable            |      28.04.23 |
 | Vedant Neema            |             | BMP202208 |          | 18:48 | 25.02.23 | Walter Rudin                     | Principles of Mathematical Analysis          |               |
 | Ishaan Verman           |             | BMP202126 |          | 18:35 | 18.03.23 | Keith D. Cooper, Linda Torczon   | Engineering a Compiler                       |               |
-| Swaminathan Rajagopalan |             | BMC202184 |          | 19:46 | 21.03.23 | P.G. Wodehouse                   | The World of Psmith (omnibus)                |               |
+| Swaminathan Rajagopalan |             | BMC202184 |          | 19:46 | 21.03.23 | P.G. Wodehouse                   | The World of Psmith (omnibus)                |      28.04.23 |
+| Anhad Chaturvedi        |             |           |          |     * |        * | Feynman, Leighton, Sands         | The Feynman Lectures on Physics Volume 2     |               |
+| Sahil Lakhmani          |             | BMC202248 |          | 18:00 | 13.04.23 | Micheal Artin                    | Algebra - 2nd Edition                        |      29.04.23 |
 |-------------------------+-------------+-----------+----------+-------+----------+----------------------------------+----------------------------------------------+---------------|

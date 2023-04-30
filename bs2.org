@@ -55,6 +55,8 @@
 | G.N. Berman                                                | A Problem Book in Mathematical Analysis                           |                            |
 | Walter Rudin                                               | Principles of Mathematical Analysis                               |                            |
 | Walter Rudin                                               | Principles of Mathematical Analysis                               |                            |
+| Margaret E. Baron                                          | The Origins of the Infinitesimal Calculus                         |                            |
+| N. Piskunov                                                | Differential and Integral Calculus                                |                            |
 | Apostol                                                    | Calculus - 2nd edition                                            |                            |
 | Apostol                                                    | Calculus - 2nd edition                                            |                            |
 | Apostol                                                    | Calculus - 2nd edition                                            |                            |
