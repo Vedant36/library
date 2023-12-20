@@ -5,7 +5,7 @@
 
 1. [[./bs1.html][Novels/Fiction]]
 2. [[./bs2.html][Math/Physics]]
-3. [[./bs3.html][CS/Magazines/Misc]]
+3. [[./bs3.html][CS/Finance/Magazines/Misc]]
 
 Mail any errors in the index to vedantn@cmi.ac.in
 
@@ -17,13 +17,20 @@ Shashwat Asthana <shashwata@cmi.ac.in>
 
 ** How to borrow?
 
-When: Tuesday(1800-1830), Saturday(1800-1830)
+When:
 
-Where: Common Room
+Saturday (1900-1930) only for 1st September 2023
+
+Saturday(1800-1830)
+
+Where:
+
+Common Room
 
 Please return books by the last week of the semester. I'll send out a mail as a reminder.
 
 ** New Arrivals (updated: 3 Jan 2023)
+- Lindsay N. Childs - A concrete introduction to higher algebra
 - Robin Cook - Nano
 - Laurence Gardener - The Magdalene Legacy
 - Chetan Bhagat - five point someone

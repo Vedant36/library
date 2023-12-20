@@ -32,6 +32,7 @@
 | I.N. Herstein                                              | Topics in Algebra                                                 |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                 |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                 |                            |
+| Friedberg, Insel, Spence                                   | Linear Algebra                                                    |                            |
 | Michael Artin                                              | Algebra - 2nd edition                                             |                            |
 | Michael Artin                                              | Algebra - 2nd edition                                             |                            |
 | Michael Artin                                              | Algebra - 2nd edition                                             |                            |
@@ -82,6 +83,7 @@
 | William M. Boothby                                         | An Introduction to Differential Manifolds and Riemannian Geometry |                            |
 | Venkatachala                                               | Functional Equations - Second Edition                             |                            |
 | Farmer, Stanford                                           | Knots and Surfaces                                                |                            |
+| Hatcher                                                    | Topology                                                          |                            |
 | Munkres                                                    | Topology - US Edition                                             |                            |
 | Munkres                                                    | Topology - US Edition                                             |                            |
 | Munkres                                                    | Topology - Second Edition                                         |                            |
@@ -99,4 +101,5 @@
 | Niven, Zuckerman, Montgomery                               | An Introduction to the Theory of Numbers                          |                            |
 | West                                                       | Introduction to Graph Theory - Second Edition                     |                            |
 | Ross                                                       | Elementary Analysis: The Theory of Calculus                       |                            |
+| Lindsay N. Childs                                          | A concrete introduction to higher algebra                         |                            |
 |------------------------------------------------------------+-------------------------------------------------------------------+----------------------------|

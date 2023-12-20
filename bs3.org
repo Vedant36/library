@@ -10,5 +10,9 @@
 | Langsam, Augenstein, Tenenbaum   | Data Structures using C and C++                      |            |
 | Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools         |            |
 | Yashavant Kanetkar               | Let us C - 3rd edition                               |            |
+| Nick Bostrom                     | Superintelligence                                    |            |
+| Robert Neidorf                   | Deductive Forms                                      |            |
+| Amber Habib                      | The Calculus of Finance                              |            |
+| Eswae S. Prasad                  | The Future of Money                                  |            |
 |----------------------------------+------------------------------------------------------+------------|
 
