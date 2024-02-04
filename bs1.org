@@ -1,171 +1,114 @@
+#+TITLE: Bookshelf 1: Math/Physics
 #+ATTR_HTML: :border 2 :frame all :rules all
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| Author                                  | Title                                                      | Notes                        |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| Robin Cook                              | Nano                                                       |                              |
-| Laurence Gardener                       | The Magdalene Legacy                                       |                              |
-| Jeffery Archer                          | A Prison Diary                                             |                              |
-| Jeffery Archer                          | A Prison Diary                                             |                              |
-| Jeffery Archer                          | A Prison Diary II                                          |                              |
-| Jeffery Archer                          | A Twist in the Tale                                        |                              |
-| Jeffery Archer                          | Sons of Fortune                                            |                              |
-| Dan Brown                               | Angels and Demons                                          |                              |
-| Dan Brown                               | Angels and Demons                                          |                              |
-| Dan Brown                               | Digital Fortress                                           |                              |
-| Dan Brown                               | The Da Vinci Code                                          |                              |
-| Sidney Sheldon                          | The Other Side of Midnight                                 |                              |
-| Sidney Sheldon                          | The Sky is Falling                                         |                              |
-| Stephen King                            | Different Seasons                                          |                              |
-| Stephen King                            | It                                                         | Page 1-6 are torn            |
-| Agatha Christie                         | The Moving Finger                                          |                              |
-| Isaac Asimov                            | i,Robot                                                    |                              |
-| Isaac Asimov                            | Foundation                                                 |                              |
-| Isaac Asimov                            | The Caves of Steel + The Rest of the Robots                |                              |
-| J.K. Rowling                            | Harry Potter and the Half-Blood Prince                     |                              |
-| J.K. Rowling                            | Harry Potter and the Deathly Hallows                       |                              |
-| C.S. Lewis                              | The Chronicles of Narnia                                   | All the books                |
-| J.R.R. Tolkien                          | The Lord of the Rings                                      | Book 1 + Books 2 half        |
-| J.R.R. Tolkien                          | The Hobbit                                                 |                              |
-| Jules Verne                             | Round the World in Eighty Days                             |                              |
-| H.G. Wells                              | The War of the Worlds                                      |                              |
-| Victor Hugo                             | Les Misérables                                             |                              |
-| L. Frank Baum                           | Wizard of Oz                                               |                              |
-| Mark Twain                              | Life on the Mississippi                                    |                              |
-| P.G. Wodehouse                          | The White Feather                                          |                              |
-| Fyodor Dostoyevsky                      | Notes from Underground                                     |                              |
-| Jane Austen                             | Pride and Prejudice                                        |                              |
-| Charlotte Bronte                        | Jane Eyre                                                  |                              |
-| John Stachel                            | Einsteins's Miraculous Years                               |                              |
-| Khaled Hosseini                         | The Kite Runner                                            |                              |
-| Upamanyu Chaterjee                      | The Last Burden                                            |                              |
-| Sadakat Kadri                           | The Trial                                                  |                              |
-| Aniruddha Bahal                         | The Emissary                                               |                              |
-| George Eliot                            | Silas Marner                                               |                              |
-| George Eliot                            | Mill on the Floss                                          |                              |
-| Mario Puzo                              | The Last Don                                               |                              |
-| Didier Daeninckx                        | Murder in Memoriam                                         |                              |
-| Joseph Conrad                           | Heart of Darkness                                          |                              |
-| David Cogswell                          | Chomsky For Beginners                                      |                              |
-| Richard Bach                            | Jonathan Livingston Seagull                                |                              |
-| Nicollo Machiavelli                     | The Prince                                                 |                              |
-| Virginia Woolf                          | Mrs Dalloway                                               |                              |
-| Gabriel García Márquez                  | No One Writes to the Colonel                               |                              |
-| F.Scott Fitzgerald                      | Tender is the Night                                        |                              |
-| Charles Dickens                         | The Pickwick Papers                                        |                              |
-| Johm Buchan                             | The Thirty-Nine Steps                                      |                              |
-| Chuck Palahniuk                         | Diary                                                      |                              |
-| Orhan Pamuk                             | My Name is Red                                             |                              |
-| Lionel Shriver                          | We Need to Talk About Kevin                                |                              |
-| P.G. Wodehouse                          | The World of Psmith (omnibus)                              | Collection of 3 stories      |
-| Lynne Truss                             | Going Loco                                                 |                              |
-| Lynne Truss                             | With One Lousy Free Packet of Seed                         |                              |
-| Lynne Truss                             | Making the Cat Laugh                                       |                              |
-| Lynne Truss                             | Tennyson's Gift                                            |                              |
-| Terry Pratchett                         | Monstrous Regiment                                         |                              |
-| Haruki Murakami                         | Birthday Stories                                           |                              |
-| Robert Silverberg                       | Legends                                                    |                              |
-| Robert Louis Stevenson                  | Kidnapped                                                  |                              |
-| Danny Hogan                             | Jailbait Justice                                           |                              |
-| Bill Cosbt                              | Kids Say the Darndest Things                               |                              |
-| Henry James                             | The turn of the Screw, The Aspern Papers and other stories |                              |
-| A. M. Homes                             | The End of Alice                                           |                              |
-| Wayne W. Dyer                           | Gifts From Eykis                                           |                              |
-| Umberto Eco                             | On Literature                                              |                              |
-| W. Somerset Maughan                     | The Summing Up                                             |                              |
-| David Lan                               | Desire and Other Plays                                     |                              |
-| Elliot Engel                            | How Oscar Became Wilde                                     |                              |
-| Jhumpa Lahiri                           | The Namesake                                               |                              |
-| APJ Abdul Kalam, YS Rajan               | India 2020                                                 |                              |
-| APJ Abdul Kalam                         | Wings of Fire                                              |                              |
-| APJ Abdul Kalam                         | Ignited Minds                                              |                              |
-| APJ Abdul Kalam                         | Ignited Minds                                              |                              |
-| Soumya Bhattacharya                     | You Must Like Cricket                                      |                              |
-| Dominique Lapierre                      | The City of Joy                                            |                              |
-| A. S. Dalal                             | Living Within: Sri Aurobindo and the Mother                |                              |
-| Upamanyu Chatterjee                     | The Mammaries of the Welfare State                         |                              |
-| Upamanyu Chatterjee                     | English, August                                            |                              |
-| Satyajit Ray                            | The best of Satyajit Ray                                   |                              |
-| Romain Rolland                          | Mahatma Gandhi                                             |                              |
-| Mark Tully                              | No Full Stops in India                                     |                              |
-| Gita Ramaswamy                          | India Stinking                                             |                              |
-| Rohinton Mistry                         | Tales from Firozsha Baag                                   |                              |
-| Salman Rushdie                          | Haroun and the Sea of Stories                              |                              |
-| Shreekumar Varma                        | Maria's room                                               |                              |
-| William Makepeace Thackeray             | Vanity Fair                                                |                              |
-| Jeffrey M. Schwartz                     | Brain Lock                                                 |                              |
-| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                              |
-| V.S. Naipaul                            | Letters Between Father and Son                             |                              |
-| Sister Nivedita, Ananda K. Coomaraswamy | Hindus and Buddhists                                       |                              |
-| Noam Chomsky                            | On Language                                                |                              |
-| Shakespeare                             | The Two Gentlemen of Verona                                |                              |
-| Steven Pinker                           | The Language Instinct                                      |                              |
-| Buck Rodgers, Robert Shook              | The IBM Way                                                |                              |
-| Barry Mazur                             | Imagining Numbers                                          |                              |
-| Catholic Church                         | The Holy Bible                                             |                              |
-| Siddhartha Basu                         | Mastermind India 4                                         |                              |
-| Sheri S. Tepper                         | Grass                                                      |                              |
-| Ronald W. Clark                         | Einstein: The Life and Times                               |                              |
-| Stephen Hawking                         | A Brief History of Time                                    |                              |
-| L.I. Brezhnev                           | Following Lenin's Course                                   |                              |
-| Charles Darwin                          | The Origin of Species                                      |                              |
-| Arun Kumar Singh                        | The Comprehensive History of Psychology                    |                              |
-| Chetan Bhagat                           | five point someone                                         |                              |
-| Chetan Bhagat                           | 2 states                                                   |                              |
-| John Grisham                            | The Pelican Brief                                          |                              |
-| John Grisham                            | The Client                                                 |                              |
-| John Grisham                            | The Runaway Jury                                           |                              |
-| Vikram Seth                             | A Suitable Boy                                             |                              |
-| R. K. Narayan                           | A Town Called Malgudi                                      |                              |
-| R. K. Narayan                           | The Dark Room                                              |                              |
-| V. Brodov                               | Indian Philosophy in Modern Times                          |                              |
-| Rohinton Mistry                         | Family Matters                                             |                              |
-| Vikram Sethk                            | An Equal Music                                             |                              |
-| Charles Dickens                         | The Pickwick Papers                                        |                              |
-| Vikram Seth                             | The Collected Poems                                        |                              |
-| Vikram Seth                             | From Heaven Lake                                           |                              |
-| Vikram Seth                             | The Golden Gate                                            |                              |
-| Mahesh Dattani                          | Collected Plays Vol. 1                                     |                              |
-| Tarun Tejpal                            | The Alchemy of Desire                                      |                              |
-| Nighat M. Gandhi                        | Ghalib at Dusk and Other Stories                           |                              |
-| Kiran Desai                             | The Inheritance of Loss                                    |                              |
-| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                              |
-| Ruskin Bond                             | Collected Fiction                                          |                              |
-| Ruskin Bond                             | Book of Nature                                             |                              |
-| Ruskin Bond                             | Roads to Mussoorie                                         |                              |
-| Penguin                                 | First Proof (2)                                            |                              |
-| Mahesh Dattani                          | Collected Plays Vol. 2                                     |                              |
-| Rabindranath Tagore                     | The King of the Dark Chamber                               |                              |
-| Rabindranath Tagore                     | A Grain of Sand (Chokher Bali)                             |                              |
-| Maria Konnikova                         | Mastermind: How to Think Like Sherlock Holmes              |                              |
-| Saratchandra Chattopadhyay              | The Saratchandra Omnibus Vol. 1                            |                              |
-| Bankimchandra Chattopadhyay             | The Bankimchandra Omnibus Vol. 1                           |                              |
-| Sunil Gangopadhyay                      | The Youth                                                  |                              |
-| Jibonananda Das                         | Jibonananda Daser Shreshtho Kobita                         | Bengali                      |
-| Harsha Dutta                            | Shobuj Pratima                                             | Bengali                      |
-| Swami Vedananda                         | //                                                         | Bengali                      |
-| R. K. Laxman                            | Collected Writings                                         |                              |
-| R. K. Narayan                           | Swami and Friends                                          |                              |
-| Bisham Sahni                            | Tamas                                                      |                              |
-| R. K. Narayan                           | Waiting for the Mahatma                                    |                              |
-| R. K. Narayan                           | The Indian Epics Retold                                    |                              |
-| Shankha Ghosh                           | Kobita Sangraha                                            | Bengali                      |
-| Achintyakumar Sengupta                  | Udyata Kharga                                              | Bengali (3 Volumes Together) |
-| Ernest Hemingway                        | A Farewell to Arms                                         |                              |
-| George Orwell                           | Nineteen Eighty-Four                                       |                              |
-| Irving Chernev, Fred Reinfeld           | Winning Chess                                              |                              |
-| Roger Penrose                           | The Emperor's New Mind                                     |                              |
-| Devdutt Pattanaik                       | The Pregnant King                                          |                              |
-| Veronica Henry                          | Just a Family Affair                                       |                              |
-| Madan Mohan Sati                        | Rajula-Malusahi                                            | Hindi                        |
-| Mahadevi Verma                          | Ateet ke Chalchitra                                        | Hindi                        |
-| Sophie Kinsella                         | How to Stop Your Sister's Wedding Night                    |                              |
-| Robin Sharma                            | The Monk Who Sold His Ferrari                              |                              |
-| John Simpson                            | A Mad World, My Masters                                    |                              |
-| Agatha Christie                         | An Autobiography                                           |                              |
-| James Joyce                             | Ulysses                                                    |                              |
-| John Gibson Lockhart                    | The History of Napoleon Buonaparte                         |                              |
-| Kancha Ilaiah                           | Turning the Pot, Tilling the Land                          |                              |
-| Sunita Parasuraman                      | Going to America                                           |                              |
-| Swami Vivekananda                       | Education for Character                                    |                              |
-| Shakespeare                             | The Complete Works                                         |                              |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
+| Author                                                     | Title                                                               | Notes                      |
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
+| Alvin Halpern                                              | Schaum's - 3000 Solved Problems in Physics                          |                            |
+| David J. Griffiths                                         | Introduction to Electrodynamics                                     |                            |
+| Daniel V. Schroeder                                        | Introduction to Thermal Physics                                     |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 5th edition                      |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 6th edition                      |                            |
+| Halliday, Resnick, Walker                                  | Fundamentals of Physics - Extended 6th edition                      |                            |
+| L.D.Landau, E.M. Lifshitz                                  | Quantum Mechanics (Non-relativistic Theory)                         |                            |
+| Bruce Cameron Reed                                         | Quantum Mechanics                                                   |                            |
+| Mark W. Zemansky, Richard H. Dittman                       | Heat and Thermodynamics                                             |                            |
+| Feynman, Leighton, Sands                                   | The Feynman Lectures on Physics Volume 2                            |                            |
+| Franics A. Jenkins, Harvey E. White                        | Fundamentals of Optics                                              |                            |
+| Kittel, Knight, Ruderman, Helmholz, Moyer                  | Berkeley Physics Course - Volume 1 (Mechanics)                      |                            |
+| Goldstein, Poole, Safko                                    | Classical Mechanics                                                 |                            |
+| Sears, Zemansky, Young                                     | University Physics - 6th edition                                    |                            |
+| Sears, Zemansky, Young                                     | University Physics - 6th edition                                    |                            |
+| Ramaswamy, Roy, Gupte                                      | Proceedings of the conference PNLD 2004                             |                            |
+| Sridhar, Ravi, Kamaraj, Vijayan                            | Interactive Physics - Volume 7 (Electromagenetism)                  |                            |
+| Khaparde, Pradhan                                          | Innovative Experimental Problems and Demonstrations in Physics      |                            |
+| I.E. Irodov                                                | Problems in General Physics                                         |                            |
+| I.E. Irodov                                                | Problems in General Physics                                         |                            |
+| I.E. Irodov                                                | Problems in General Physics                                         |                            |
+| Thornton, Marion                                           | Classical Dynamics of Particles and Systems                         |                            |
+| Yung-Kao Lim                                               | Problems and Solutions on Mechanics                                 | Lim is actually the Editor |
+| Kleppner, Kolenkow                                         | An Introduction to Mechanics                                        |                            |
+| G. Venkataraman                                            | Chandrashekhar and his Limit                                        |                            |
+| Rao, Jagannathan, Berghe, Jeugt                            | Special Functions and Differential Equations                        |                            |
+| Fedele, Shukla                                             | Quantum-Like Models and Coherent Effects                            |                            |
+| Main                                                       | Vibration and waves in physics                                      |                            |
+| Paul, Ehrenfest                                            | The Conceptual Foundations of the Statistical Approach in Mechanics |                            |
+| Maxwell                                                    | Matter and Motion                                                   |                            |
+| Ghatak                                                     | Optics                                                              |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                   |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                   |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                   |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                   |                            |
+| I.N. Herstein                                              | Topics in Algebra                                                   |                            |
+| Friedberg, Insel, Spence                                   | Linear Algebra                                                      |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                               |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                               |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                               |                            |
+| Michael Artin                                              | Algebra - 2nd edition                                               | Without cover page         |
+| Hoffman, Kunze                                             | Linear Algebra                                                      |                            |
+| Hoffman, Kunze                                             | Linear Algebra                                                      |                            |
+| Hoffman, Kunze                                             | Linear Algebra                                                      |                            |
+| Gilbert Strang                                             | Linear Algebra and Its Applications                                 |                            |
+| Gilbert Strang                                             | Linear Algebra and Its Applications                                 |                            |
+| Nikolsky, Potapov                                          | Algebra                                                             |                            |
+| S. Kumaresan                                               | Linear Algebra - A Geometric Approach                               |                            |
+| Halmos                                                     | Finite-Dimensional Vector Spaces                                    |                            |
+| Niven, Zuckerman, Montgomery                               | An Introduction to The Theory of Numbers                            |                            |
+| I.A. Maron                                                 | Problems in Calculus of One Variable                                |                            |
+| I.A. Maron                                                 | Problems in Calculus of One Variable                                |                            |
+| Terence Tao                                                | Analysis 1                                                          |                            |
+| S.K. Mapa                                                  | Introduction to Real Analysis - revised 6th edition                 |                            |
+| Bartle, Sherbert                                           | Introduction to Real Analysis - 4th edition                         |                            |
+| Bartle, Sherbert                                           | Introduction to Real Analysis - 3th edition                         |                            |
+| Apostol                                                    | Mathematical Analysis - 2nd edition                                 |                            |
+| G.N. Berman                                                | A Problem Book in Mathematical Analysis                             |                            |
+| Walter Rudin                                               | Principles of Mathematical Analysis                                 |                            |
+| Walter Rudin                                               | Principles of Mathematical Analysis                                 |                            |
+| Margaret E. Baron                                          | The Origins of the Infinitesimal Calculus                           |                            |
+| N. Piskunov                                                | Differential and Integral Calculus                                  |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| Apostol                                                    | Calculus - 2nd edition                                              |                            |
+| David C. Kay                                               | Shcaum's outlines - Tensor Calculus                                 |                            |
+| Krishnamurthy, Pranesachar, Ranganathan, B.J. Venkatachala | Challenge and Thrill of Pre-College Mathematics                     |                            |
+| John B. Conway                                             | Functions of One Complex Variable                                   |                            |
+| John B. Fraleigh                                           | A First Course in Abstract Algebra                                  |                            |
+| John B. Fraleigh                                           | A First Course in Abstract Algebra                                  |                            |
+| Grimmet, Stirzaker                                         | Probablity and Random Processes                                     |                            |
+| George F. Simons                                           | Topology and Modern Analysis                                        |                            |
+| Sevastyanov, Chistyakov, Zubkov                            | Problems in the Theory of Probablity                                |                            |
+| Banerjee, S.K. DE, S. Sen                                  | Mathematical Probablity                                             |                            |
+| Gupta, Pandey, Malik                                       | Tensors and Differential Geometry                                   |                            |
+| S.L. Loney                                                 | The Elements of Coordinate Geometry                                 |                            |
+| The Association of Mathematics Teachers of India           | The Mathematics Teacher                                             |                            |
+| Shakir Hussain                                             | Mathematics Tools for Physics                                       |                            |
+| G.F. Simmons                                               | Introduction to Topology and Modern Analysis                        |                            |
+| G.F. Simmons                                               | Introduction to Topology and Modern Analysis                        |                            |
+| William M. Boothby                                         | An Introduction to Differential Manifolds and Riemannian Geometry   |                            |
+| Venkatachala                                               | Functional Equations - Second Edition                               |                            |
+| Farmer, Stanford                                           | Knots and Surfaces                                                  |                            |
+| Hatcher                                                    | Topology                                                            |                            |
+| Munkres                                                    | Topology - US Edition                                               |                            |
+| Munkres                                                    | Topology - US Edition                                               |                            |
+| Munkres                                                    | Topology - Second Edition                                           |                            |
+| Munkres                                                    | Topology - Second Edition                                           |                            |
+| Munkres                                                    | Topology - Second Edition                                           |                            |
+| Spiegel                                                    | Theory and Problems of Vector Analysis - Schaum's Outline Series    |                            |
+| Coddington                                                 | An Introduction to Ordinary Differential Equations                  |                            |
+| Balakrishnan                                               | Combinatorics - Schaum's Theory and Problems                        |                            |
+| Leithold                                                   | The Calculus with Analytic Geometry                                 |                            |
+| Debra Ross                                                 | Master Math: Calculus                                               |                            |
+| Feller                                                     | An Introduction to Probability Theory and its Applications          |                            |
+| Hazewinkel, Lenstra, Meertens                              | Mathematics and Computer Science II                                 |                            |
+| Gallian                                                    | Contemporary Abstract Algebra                                       |                            |
+| Jain, Ahmad                                                | Metric Spaces - Second Edition                                      |                            |
+| Niven, Zuckerman, Montgomery                               | An Introduction to the Theory of Numbers                            |                            |
+| West                                                       | Introduction to Graph Theory - Second Edition                       |                            |
+| Ross                                                       | Elementary Analysis: The Theory of Calculus                         |                            |
+| Lindsay N. Childs                                          | A concrete introduction to higher algebra                           |                            |
+| Modak, Katre, Acharya, Sholapurkar                         | An Excursion in Mathematics                                         |                            |
+| Pascal                                                     | Œvres Completès (Complete Works)                                    |                            |
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|

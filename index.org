@@ -1,27 +1,26 @@
+#+TITLE: CMI's Student Library
 #+OPTIONS: toc:nil num:nil
-* The Student's Library
+* Index
 
-** Index
-
-1. [[./bs1.html][Novels/Fiction]]
-2. [[./bs2.html][Math/Physics]]
-3. [[./bs3.html][CS/Finance/Magazines/Misc]]
+1. [[./bs2.html][Math/Physics]]
+2. [[./bs1.html][Novels/Fiction]]
+3. [[./bs3.html][CS/Logic/Finance/Magazines/Misc]]
 
 Mail any errors in the index to vedantn@cmi.ac.in
 
-** Current Key Holders
+* Current Key Holders
 
 Vedant Neema <vedantn@cmi.ac.in>
 
 Shashwat Asthana <shashwata@cmi.ac.in>
 
-** How to borrow?
+* How to borrow?
 
 When:
 
 Saturday (1900-1930) only for 1st September 2023
 
-Saturday(1800-1830)
+Saturday (1800-1830)
 
 Where:
 
@@ -29,12 +28,13 @@ Common Room
 
 Please return books by the last week of the semester. I'll send out a mail as a reminder.
 
-** New Arrivals (updated: 3 Jan 2023)
-- Lindsay N. Childs - A concrete introduction to higher algebra
-- Robin Cook - Nano
-- Laurence Gardener - The Magdalene Legacy
-- Chetan Bhagat - five point someone
-- Chetan Bhagat - 2 states
-- John Grisham - The Pelican Brief
-- John Grisham - The Client
-- John Grisham - The Runaway Jury
+* New Arrivals (updated: 3 Feb 2024)
+- Artin - Linear Algebra
+- Pascal - Œvres Completès (Complete Works)
+- Robert Greene - The Concise Laws of Human Nature
+- Robert Greene - Seduction
+- Kurt Gödel - Travaux de Logique (Work of Logic)
+- Michael Dummett - Frege and other Philosophers
+- Arnauld, Nicole - La Logique ou l'art de penser (Logic; or the art of thinking)
+- Kalish, Montague, Mar - Logic: Techniques of Formal Reasoning
+- Garfiels, Kiteley - Meaning and Truth
