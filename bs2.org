@@ -1,176 +1,198 @@
-#+TITLE: Bookshelf 2: [[./bs1.html][Novels/Fiction]]
+#+TITLE: Bookshelf 2: Novels, Fiction
 #+ATTR_HTML: :border 2 :frame all :rules all
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| Author                                  | Title                                                      | Notes                        |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| Robin Cook                              | Nano                                                       |                              |
-| Laurence Gardener                       | The Magdalene Legacy                                       |                              |
-| Jeffery Archer                          | A Prison Diary                                             |                              |
-| Jeffery Archer                          | A Prison Diary                                             |                              |
-| Jeffery Archer                          | A Prison Diary II                                          |                              |
-| Jeffery Archer                          | A Twist in the Tale                                        |                              |
-| Jeffery Archer                          | Sons of Fortune                                            |                              |
-| Dan Brown                               | Angels and Demons                                          |                              |
-| Dan Brown                               | Angels and Demons                                          |                              |
-| Dan Brown                               | Digital Fortress                                           |                              |
-| Dan Brown                               | The Da Vinci Code                                          |                              |
-| Sidney Sheldon                          | The Other Side of Midnight                                 |                              |
-| Sidney Sheldon                          | The Sky is Falling                                         |                              |
-| Stephen King                            | Different Seasons                                          |                              |
-| Stephen King                            | It                                                         | Page 1-6 are torn            |
-| Agatha Christie                         | The Moving Finger                                          |                              |
-| Isaac Asimov                            | i,Robot                                                    |                              |
-| Isaac Asimov                            | Foundation                                                 |                              |
-| Isaac Asimov                            | The Caves of Steel + The Rest of the Robots                |                              |
-| J.R.R. Tolkien                          | The Lord of the Rings                                      | Book 1 + Books 2 half        |
-| J.R.R. Tolkien                          | The Hobbit                                                 |                              |
-| Jules Verne                             | Round the World in Eighty Days                             |                              |
-| H.G. Wells                              | The War of the Worlds                                      |                              |
-| Victor Hugo                             | Les Misérables                                             |                              |
-| L. Frank Baum                           | Wizard of Oz                                               |                              |
-| Mark Twain                              | Life on the Mississippi                                    |                              |
-| P.G. Wodehouse                          | The White Feather                                          |                              |
-| Fyodor Dostoyevsky                      | Notes from Underground                                     |                              |
-| Jane Austen                             | Pride and Prejudice                                        |                              |
-| Charlotte Bronte                        | Jane Eyre                                                  |                              |
-| John Stachel                            | Einsteins's Miraculous Years                               |                              |
-| Khaled Hosseini                         | The Kite Runner                                            |                              |
-| J.K. Rowling                            | Harry Potter and the Deathly Hallows                       |                              |
-| J.K. Rowling                            | Harry Potter and the Half-Blood Prince                     |                              |
-| C.S. Lewis                              | The Chronicles of Narnia                                   | All the books                |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| Upamanyu Chaterjee                      | The Last Burden                                            |                              |
-| Sadakat Kadri                           | The Trial                                                  |                              |
-| Aniruddha Bahal                         | The Emissary                                               |                              |
-| George Eliot                            | Silas Marner                                               |                              |
-| George Eliot                            | Mill on the Floss                                          |                              |
-| Mario Puzo                              | The Last Don                                               |                              |
-| Didier Daeninckx                        | Murder in Memoriam                                         |                              |
-| Joseph Conrad                           | Heart of Darkness                                          |                              |
-| David Cogswell                          | Chomsky For Beginners                                      |                              |
-| Richard Bach                            | Jonathan Livingston Seagull                                |                              |
-| Nicollo Machiavelli                     | The Prince                                                 |                              |
-| Virginia Woolf                          | Mrs Dalloway                                               |                              |
-| Gabriel García Márquez                  | No One Writes to the Colonel                               |                              |
-| F.Scott Fitzgerald                      | Tender is the Night                                        |                              |
-| Charles Dickens                         | The Pickwick Papers                                        |                              |
-| Johm Buchan                             | The Thirty-Nine Steps                                      |                              |
-| Chuck Palahniuk                         | Diary                                                      |                              |
-| Orhan Pamuk                             | My Name is Red                                             |                              |
-| Lionel Shriver                          | We Need to Talk About Kevin                                |                              |
-| P.G. Wodehouse                          | The World of Psmith (omnibus)                              | Collection of 3 stories      |
-| Lynne Truss                             | Going Loco                                                 |                              |
-| Lynne Truss                             | With One Lousy Free Packet of Seed                         |                              |
-| Lynne Truss                             | Making the Cat Laugh                                       |                              |
-| Lynne Truss                             | Tennyson's Gift                                            |                              |
-| Terry Pratchett                         | Monstrous Regiment                                         |                              |
-| Haruki Murakami                         | Birthday Stories                                           |                              |
-| Robert Silverberg                       | Legends                                                    |                              |
-| Robert Louis Stevenson                  | Kidnapped                                                  |                              |
-| Danny Hogan                             | Jailbait Justice                                           |                              |
-| Bill Cosby                              | Kids Say the Darndest Things                               |                              |
-| Henry James                             | The turn of the Screw, The Aspern Papers and other stories |                              |
-| A. M. Homes                             | The End of Alice                                           |                              |
-| Wayne W. Dyer                           | Gifts From Eykis                                           |                              |
-| Umberto Eco                             | On Literature                                              |                              |
-| W. Somerset Maughan                     | The Summing Up                                             |                              |
-| David Lan                               | Desire and Other Plays                                     |                              |
-| Elliot Engel                            | How Oscar Became Wilde                                     |                              |
-| Jhumpa Lahiri                           | The Namesake                                               |                              |
-| Robert Greene                           | The Concise Laws of Human Nature                           |                              |
-| Robert Greene                           | Seduction                                                  |                              |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
-| APJ Abdul Kalam, YS Rajan               | India 2020                                                 |                              |
-| APJ Abdul Kalam                         | Wings of Fire                                              |                              |
-| APJ Abdul Kalam                         | Ignited Minds                                              |                              |
-| APJ Abdul Kalam                         | Ignited Minds                                              |                              |
-| Soumya Bhattacharya                     | You Must Like Cricket                                      |                              |
-| Dominique Lapierre                      | The City of Joy                                            |                              |
-| A. S. Dalal                             | Living Within: Sri Aurobindo and the Mother                |                              |
-| Upamanyu Chatterjee                     | The Mammaries of the Welfare State                         |                              |
-| Upamanyu Chatterjee                     | English, August                                            |                              |
-| Satyajit Ray                            | The best of Satyajit Ray                                   |                              |
-| Romain Rolland                          | Mahatma Gandhi                                             |                              |
-| Mark Tully                              | No Full Stops in India                                     |                              |
-| Gita Ramaswamy                          | India Stinking                                             |                              |
-| Rohinton Mistry                         | Tales from Firozsha Baag                                   |                              |
-| Salman Rushdie                          | Haroun and the Sea of Stories                              |                              |
-| Shreekumar Varma                        | Maria's room                                               |                              |
-| William Makepeace Thackeray             | Vanity Fair                                                |                              |
-| Jeffrey M. Schwartz                     | Brain Lock                                                 |                              |
-| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                              |
-| V.S. Naipaul                            | Letters Between Father and Son                             |                              |
-| Sister Nivedita, Ananda K. Coomaraswamy | Hindus and Buddhists                                       |                              |
-| Noam Chomsky                            | On Language                                                |                              |
-| Shakespeare                             | The Two Gentlemen of Verona                                |                              |
-| Steven Pinker                           | The Language Instinct                                      |                              |
-| Buck Rodgers, Robert Shook              | The IBM Way                                                |                              |
-| Barry Mazur                             | Imagining Numbers                                          |                              |
-| Catholic Church                         | The Holy Bible                                             |                              |
-| Siddhartha Basu                         | Mastermind India 4                                         |                              |
-| Sheri S. Tepper                         | Grass                                                      |                              |
-| Ronald W. Clark                         | Einstein: The Life and Times                               |                              |
-| Stephen Hawking                         | A Brief History of Time                                    |                              |
-| L.I. Brezhnev                           | Following Lenin's Course                                   |                              |
-| Charles Darwin                          | The Origin of Species                                      |                              |
-| Arun Kumar Singh                        | The Comprehensive History of Psychology                    |                              |
-| Chetan Bhagat                           | five point someone                                         |                              |
-| Chetan Bhagat                           | 2 states                                                   |                              |
-| John Grisham                            | The Pelican Brief                                          |                              |
-| John Grisham                            | The Client                                                 |                              |
-| John Grisham                            | The Runaway Jury                                           |                              |
-| Vikram Seth                             | A Suitable Boy                                             |                              |
-| R. K. Narayan                           | A Town Called Malgudi                                      |                              |
-| R. K. Narayan                           | The Dark Room                                              |                              |
-| V. Brodov                               | Indian Philosophy in Modern Times                          |                              |
-| Rohinton Mistry                         | Family Matters                                             |                              |
-| Vikram Sethk                            | An Equal Music                                             |                              |
-| Charles Dickens                         | The Pickwick Papers                                        |                              |
-| Vikram Seth                             | The Collected Poems                                        |                              |
-| Vikram Seth                             | From Heaven Lake                                           |                              |
-| Vikram Seth                             | The Golden Gate                                            |                              |
-| Mahesh Dattani                          | Collected Plays Vol. 1                                     |                              |
-| Tarun Tejpal                            | The Alchemy of Desire                                      |                              |
-| Nighat M. Gandhi                        | Ghalib at Dusk and Other Stories                           |                              |
-| Kiran Desai                             | The Inheritance of Loss                                    |                              |
-| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                              |
-| Ruskin Bond                             | Collected Fiction                                          |                              |
-| Ruskin Bond                             | Book of Nature                                             |                              |
-| Ruskin Bond                             | Roads to Mussoorie                                         |                              |
-| Penguin                                 | First Proof (2)                                            |                              |
-| Mahesh Dattani                          | Collected Plays Vol. 2                                     |                              |
-| Rabindranath Tagore                     | The King of the Dark Chamber                               |                              |
-| Rabindranath Tagore                     | A Grain of Sand (Chokher Bali)                             |                              |
-| Maria Konnikova                         | Mastermind: How to Think Like Sherlock Holmes              |                              |
-| Saratchandra Chattopadhyay              | The Saratchandra Omnibus Vol. 1                            |                              |
-| Bankimchandra Chattopadhyay             | The Bankimchandra Omnibus Vol. 1                           |                              |
-| Sunil Gangopadhyay                      | The Youth                                                  |                              |
-| Jibonananda Das                         | Jibonananda Daser Shreshtho Kobita                         | Bengali                      |
-| Harsha Dutta                            | Shobuj Pratima                                             | Bengali                      |
-| Swami Vedananda                         | //                                                         | Bengali                      |
-| R. K. Laxman                            | Collected Writings                                         |                              |
-| R. K. Narayan                           | Swami and Friends                                          |                              |
-| Bisham Sahni                            | Tamas                                                      |                              |
-| R. K. Narayan                           | Waiting for the Mahatma                                    |                              |
-| R. K. Narayan                           | The Indian Epics Retold                                    |                              |
-| Shankha Ghosh                           | Kobita Sangraha                                            | Bengali                      |
-| Achintyakumar Sengupta                  | Udyata Kharga                                              | Bengali (3 Volumes Together) |
-| Ernest Hemingway                        | A Farewell to Arms                                         |                              |
-| George Orwell                           | Nineteen Eighty-Four                                       |                              |
-| Irving Chernev, Fred Reinfeld           | Winning Chess                                              |                              |
-| Roger Penrose                           | The Emperor's New Mind                                     |                              |
-| Devdutt Pattanaik                       | The Pregnant King                                          |                              |
-| Veronica Henry                          | Just a Family Affair                                       |                              |
-| Madan Mohan Sati                        | Rajula-Malusahi                                            | Hindi                        |
-| Mahadevi Verma                          | Ateet ke Chalchitra                                        | Hindi                        |
-| Sophie Kinsella                         | How to Stop Your Sister's Wedding Night                    |                              |
-| Robin Sharma                            | The Monk Who Sold His Ferrari                              |                              |
-| John Simpson                            | A Mad World, My Masters                                    |                              |
-| Agatha Christie                         | An Autobiography                                           |                              |
-| James Joyce                             | Ulysses                                                    |                              |
-| John Gibson Lockhart                    | The History of Napoleon Buonaparte                         |                              |
-| Kancha Ilaiah                           | Turning the Pot, Tilling the Land                          |                              |
-| Sunita Parasuraman                      | Going to America                                           |                              |
-| Swami Vivekananda                       | Education for Character                                    |                              |
-| Shakespeare                             | The Complete Works                                         |                              |
-|-----------------------------------------+------------------------------------------------------------+------------------------------|
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Author                                  | Title                                                      | Notes                           |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Robin Cook                              | Nano                                                       |                                 |
+| Laurence Gardener                       | The Magdalene Legacy                                       |                                 |
+| Jeffery Archer                          | A Prison Diary                                             |                                 |
+| Jeffery Archer                          | A Prison Diary                                             |                                 |
+| Jeffery Archer                          | A Prison Diary II                                          |                                 |
+| Jeffery Archer                          | A Twist in the Tale                                        |                                 |
+| Jeffery Archer                          | Sons of Fortune                                            |                                 |
+| Dan Brown                               | Angels and Demons                                          |                                 |
+| Dan Brown                               | Angels and Demons                                          |                                 |
+| Dan Brown                               | Digital Fortress                                           |                                 |
+| Dan Brown                               | The Da Vinci Code                                          |                                 |
+| Sidney Sheldon                          | The Other Side of Midnight                                 |                                 |
+| Sidney Sheldon                          | The Sky is Falling                                         |                                 |
+| Stephen King                            | Different Seasons                                          |                                 |
+| Stephen King                            | It                                                         | Page 1-6 are torn               |
+| Agatha Christie                         | The Moving Finger                                          |                                 |
+| Isaac Asimov                            | i,Robot                                                    |                                 |
+| Isaac Asimov                            | Foundation                                                 |                                 |
+| Isaac Asimov                            | The Caves of Steel + The Rest of the Robots                |                                 |
+| J.R.R. Tolkien                          | The Lord of the Rings                                      | Book 1 + Books 2 half           |
+| J.R.R. Tolkien                          | The Hobbit                                                 |                                 |
+| Jules Verne                             | Round the World in Eighty Days                             |                                 |
+| H.G. Wells                              | The War of the Worlds                                      |                                 |
+| Victor Hugo                             | Les Misérables                                             |                                 |
+| L. Frank Baum                           | Wizard of Oz                                               |                                 |
+| Mark Twain                              | Life on the Mississippi                                    |                                 |
+| P.G. Wodehouse                          | The White Feather                                          |                                 |
+| Fyodor Dostoyevsky                      | Notes from Underground                                     |                                 |
+| Jane Austen                             | Pride and Prejudice                                        |                                 |
+| Charlotte Bronte                        | Jane Eyre                                                  |                                 |
+| John Stachel                            | Einsteins's Miraculous Years                               |                                 |
+| Khaled Hosseini                         | The Kite Runner                                            |                                 |
+| J.K. Rowling                            | Harry Potter and the Deathly Hallows                       |                                 |
+| J.K. Rowling                            | Harry Potter and the Half-Blood Prince                     |                                 |
+| C.S. Lewis                              | The Chronicles of Narnia                                   | All the books                   |
+| Jerome K Jerome                         | Three Men in a Boat                                        |                                 |
+| Byatt                                   | The Djinn in the Nightingale's Eye                         |                                 |
+| Aldous Huxley                           | Brave New World                                            |                                 |
+| Jorge Luis Borges                       | Fictions: A collection of short stories                    | includes the library of babel   |
+| Upamanyu Chatterjee                     | English, August                                            |                                 |
+| Shoma Narayan                           | Take One Arranged Marriage                                 |                                 |
+| Patricia Highsmith                      | The Talented Mr Ripley                                     |                                 |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Upamanyu Chaterjee                      | The Last Burden                                            |                                 |
+| Sadakat Kadri                           | The Trial                                                  |                                 |
+| Aniruddha Bahal                         | The Emissary                                               |                                 |
+| George Eliot                            | Silas Marner                                               |                                 |
+| George Eliot                            | Mill on the Floss                                          |                                 |
+| Mario Puzo                              | The Last Don                                               |                                 |
+| Didier Daeninckx                        | Murder in Memoriam                                         |                                 |
+| Joseph Conrad                           | Heart of Darkness                                          |                                 |
+| David Cogswell                          | Chomsky For Beginners                                      |                                 |
+| Richard Bach                            | Jonathan Livingston Seagull                                |                                 |
+| Nicollo Machiavelli                     | The Prince                                                 |                                 |
+| Virginia Woolf                          | Mrs Dalloway                                               |                                 |
+| Gabriel García Márquez                  | No One Writes to the Colonel                               |                                 |
+| F.Scott Fitzgerald                      | Tender is the Night                                        |                                 |
+| Charles Dickens                         | The Pickwick Papers                                        |                                 |
+| Johm Buchan                             | The Thirty-Nine Steps                                      |                                 |
+| Chuck Palahniuk                         | Diary                                                      |                                 |
+| Orhan Pamuk                             | My Name is Red                                             |                                 |
+| Lionel Shriver                          | We Need to Talk About Kevin                                |                                 |
+| P.G. Wodehouse                          | The World of Psmith (omnibus)                              | Collection of 3 stories         |
+| Lynne Truss                             | Going Loco                                                 |                                 |
+| Lynne Truss                             | With One Lousy Free Packet of Seed                         |                                 |
+| Lynne Truss                             | Making the Cat Laugh                                       |                                 |
+| Lynne Truss                             | Tennyson's Gift                                            |                                 |
+| Terry Pratchett                         | Monstrous Regiment                                         |                                 |
+| Haruki Murakami                         | Birthday Stories                                           |                                 |
+| Robert Silverberg                       | Legends                                                    |                                 |
+| Robert Louis Stevenson                  | Kidnapped                                                  |                                 |
+| Danny Hogan                             | Jailbait Justice                                           |                                 |
+| Bill Cosby                              | Kids Say the Darndest Things                               |                                 |
+| Henry James                             | The turn of the Screw, The Aspern Papers and other stories |                                 |
+| A. M. Homes                             | The End of Alice                                           |                                 |
+| Wayne W. Dyer                           | Gifts From Eykis                                           |                                 |
+| Umberto Eco                             | On Literature                                              |                                 |
+| W. Somerset Maughan                     | The Summing Up                                             |                                 |
+| David Lan                               | Desire and Other Plays                                     |                                 |
+| Elliot Engel                            | How Oscar Became Wilde                                     |                                 |
+| Jhumpa Lahiri                           | The Namesake                                               |                                 |
+| Robert Greene                           | The Concise Laws of Human Nature                           |                                 |
+| Robert Greene                           | Seduction                                                  |                                 |
+| Voltaire                                | Candide                                                    |                                 |
+| Herman Melville                         | Moby Dick or, The Whale                                    |                                 |
+| Carl Sagan                              | Cosmos                                                     |                                 |
+| John Green                              | The Fault in out Stars                                     |                                 |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| APJ Abdul Kalam, YS Rajan               | India 2020                                                 |                                 |
+| APJ Abdul Kalam                         | Wings of Fire                                              |                                 |
+| APJ Abdul Kalam                         | Ignited Minds                                              |                                 |
+| APJ Abdul Kalam                         | Ignited Minds                                              |                                 |
+| Soumya Bhattacharya                     | You Must Like Cricket                                      |                                 |
+| Dominique Lapierre                      | The City of Joy                                            |                                 |
+| A. S. Dalal                             | Living Within: Sri Aurobindo and the Mother                |                                 |
+| Upamanyu Chatterjee                     | The Mammaries of the Welfare State                         |                                 |
+| Upamanyu Chatterjee                     | English, August                                            |                                 |
+| Satyajit Ray                            | The best of Satyajit Ray                                   |                                 |
+| Romain Rolland                          | Mahatma Gandhi                                             |                                 |
+| Mark Tully                              | No Full Stops in India                                     |                                 |
+| Gita Ramaswamy                          | India Stinking                                             |                                 |
+| Rohinton Mistry                         | Tales from Firozsha Baag                                   |                                 |
+| Salman Rushdie                          | Haroun and the Sea of Stories                              |                                 |
+| Shreekumar Varma                        | Maria's room                                               |                                 |
+| William Makepeace Thackeray             | Vanity Fair                                                |                                 |
+| Jeffrey M. Schwartz                     | Brain Lock                                                 |                                 |
+| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                                 |
+| V.S. Naipaul                            | Letters Between Father and Son                             |                                 |
+| Sister Nivedita, Ananda K. Coomaraswamy | Hindus and Buddhists                                       |                                 |
+| Noam Chomsky                            | On Language                                                |                                 |
+| Shakespeare                             | The Two Gentlemen of Verona                                |                                 |
+| Steven Pinker                           | The Language Instinct                                      |                                 |
+| Buck Rodgers, Robert Shook              | The IBM Way                                                |                                 |
+| Barry Mazur                             | Imagining Numbers                                          |                                 |
+| Catholic Church                         | The Holy Bible                                             |                                 |
+| Siddhartha Basu                         | Mastermind India 4                                         |                                 |
+| Sheri S. Tepper                         | Grass                                                      |                                 |
+| Ronald W. Clark                         | Einstein: The Life and Times                               |                                 |
+| Stephen Hawking                         | A Brief History of Time                                    |                                 |
+| L.I. Brezhnev                           | Following Lenin's Course                                   |                                 |
+| Charles Darwin                          | The Origin of Species                                      |                                 |
+| Arun Kumar Singh                        | The Comprehensive History of Psychology                    |                                 |
+| Chetan Bhagat                           | five point someone                                         |                                 |
+| Chetan Bhagat                           | 2 states                                                   |                                 |
+| John Grisham                            | The Pelican Brief                                          |                                 |
+| John Grisham                            | The Client                                                 |                                 |
+| John Grisham                            | The Runaway Jury                                           |                                 |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Vikram Seth                             | A Suitable Boy                                             |                                 |
+| R. K. Narayan                           | A Town Called Malgudi                                      |                                 |
+| R. K. Narayan                           | The Dark Room                                              |                                 |
+| V. Brodov                               | Indian Philosophy in Modern Times                          |                                 |
+| Rohinton Mistry                         | Family Matters                                             |                                 |
+| Vikram Sethk                            | An Equal Music                                             |                                 |
+| Charles Dickens                         | The Pickwick Papers                                        |                                 |
+| Vikram Seth                             | The Collected Poems                                        |                                 |
+| Vikram Seth                             | From Heaven Lake                                           |                                 |
+| Vikram Seth                             | The Golden Gate                                            |                                 |
+| Mahesh Dattani                          | Collected Plays Vol. 1                                     |                                 |
+| Tarun Tejpal                            | The Alchemy of Desire                                      |                                 |
+| Nighat M. Gandhi                        | Ghalib at Dusk and Other Stories                           |                                 |
+| Kiran Desai                             | The Inheritance of Loss                                    |                                 |
+| Robin S. Sharma                         | The Monk Who Sold His Ferrari                              |                                 |
+| Ruskin Bond                             | Collected Fiction                                          |                                 |
+| Ruskin Bond                             | Book of Nature                                             |                                 |
+| Ruskin Bond                             | Roads to Mussoorie                                         |                                 |
+| Penguin                                 | First Proof (2)                                            |                                 |
+| Mahesh Dattani                          | Collected Plays Vol. 2                                     |                                 |
+| Rabindranath Tagore                     | The King of the Dark Chamber                               |                                 |
+| Rabindranath Tagore                     | A Grain of Sand (Chokher Bali)                             |                                 |
+| Maria Konnikova                         | Mastermind: How to Think Like Sherlock Holmes              |                                 |
+| Saratchandra Chattopadhyay              | The Saratchandra Omnibus Vol. 1                            |                                 |
+| Bankimchandra Chattopadhyay             | The Bankimchandra Omnibus Vol. 1                           |                                 |
+| Sunil Gangopadhyay                      | The Youth                                                  |                                 |
+| Jibonananda Das                         | Jibonananda Daser Shreshtho Kobita                         | Bengali                         |
+| Harsha Dutta                            | Shobuj Pratima                                             | Bengali                         |
+| Swami Vedananda                         | //                                                         | Bengali                         |
+| R. K. Laxman                            | Collected Writings                                         |                                 |
+| R. K. Narayan                           | Swami and Friends                                          |                                 |
+| Bisham Sahni                            | Tamas                                                      |                                 |
+| R. K. Narayan                           | Waiting for the Mahatma                                    |                                 |
+| R. K. Narayan                           | The Indian Epics Retold                                    |                                 |
+| Shankha Ghosh                           | Kobita Sangraha                                            | Bengali                         |
+| Achintyakumar Sengupta                  | Udyata Kharga                                              | Bengali (3 Volumes Together)    |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Ernest Hemingway                        | A Farewell to Arms                                         |                                 |
+| George Orwell                           | Nineteen Eighty-Four                                       |                                 |
+| Irving Chernev, Fred Reinfeld           | Winning Chess                                              |                                 |
+| Roger Penrose                           | The Emperor's New Mind                                     |                                 |
+| Devdutt Pattanaik                       | The Pregnant King                                          |                                 |
+| Veronica Henry                          | Just a Family Affair                                       |                                 |
+| Madan Mohan Sati                        | Rajula-Malusahi                                            | Hindi                           |
+| Mahadevi Verma                          | Ateet ke Chalchitra                                        | Hindi                           |
+| Sophie Kinsella                         | How to Stop Your Sister's Wedding Night                    |                                 |
+| Robin Sharma                            | The Monk Who Sold His Ferrari                              |                                 |
+| John Simpson                            | A Mad World, My Masters                                    |                                 |
+| Agatha Christie                         | An Autobiography                                           |                                 |
+| James Joyce                             | Ulysses                                                    |                                 |
+| John Gibson Lockhart                    | The History of Napoleon Buonaparte                         |                                 |
+| Kancha Ilaiah                           | Turning the Pot, Tilling the Land                          |                                 |
+| Sunita Parasuraman                      | Going to America                                           |                                 |
+| Swami Vivekananda                       | Education for Character                                    |                                 |
+| Swami Vivekananda                       | The Complete Works of Swami Vivekananda Vol 2, 6           |                                 |
+| Shakespeare                             | The Complete Works                                         |                                 |
+| Homer                                   | Odyssey I,II                                               | In Greek and English            |
+| Plato                                   | Republic I,II                                              | In Greek and English            |
+| Sri Aurobindo                           | Looking from Within                                        |                                 |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+|                                         | Values through Literature                                  |                                 |
+|                                         | The Art of to Short Fiction: Notes from the CMI course     | contains a lot of short stories |
+|                                         |                                                            | 8 copies                        |
+|                                         | Stories and Poems for the first year English course        | 2 copies                        |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|

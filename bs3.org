@@ -1,24 +1,83 @@
-#+TITLE: Bookshelf 3: [[./bs3.html][CS/Logic/Finance/Magazines/Misc]]
+#+TITLE: Bookshelf 3: Philosophy, CS, etc
+* Philosophy
 #+ATTR_HTML: :border 2 :frame all :rules all
-|----------------------------------+---------------------------------------------------------------+------------|
-| Author                           | Title                                                         | Notes      |
-|----------------------------------+---------------------------------------------------------------+------------|
-| Dromey                           | How to Solve it                                               |            |
-| Narasimha Karumanchi             | Data Structures and Algorithms Made Easy                      |            |
-| Byron Gottfried                  | Schaum's outlines - Programming with C - 2nd edition          |            |
-| Keith D. Cooper, Linda Torczon   | Engineering a Compiler                                        |            |
-| Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                     | CLRS, CRLS |
-| Langsam, Augenstein, Tenenbaum   | Data Structures using C and C++                               |            |
-| Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools                  |            |
-| Yashavant Kanetkar               | Let us C - 3rd edition                                        |            |
-| Nick Bostrom                     | Superintelligence                                             |            |
-| Robert Neidorf                   | Deductive Forms                                               |            |
-| Amber Habib                      | The Calculus of Finance                                       |            |
-| Eswae S. Prasad                  | The Future of Money                                           |            |
-| Kurt Gödel                       | Travaux de Logique (Work of Logic)                            |            |
-| Michael Dummett                  | Frege and other Philosophers                                  |            |
-| Arnauld, Nicole                  | La Logique ou l'art de penser (Logic; or the art of thinking) |            |
-| Kalish, Montague, Mar            | Logic: Techniques of Formal Reasoning                         |            |
-| Garfiels, Kiteley                | Meaning and Truth                                             |            |
-|----------------------------------+---------------------------------------------------------------+------------|
+|-----------------------------+---------------------------------------------------------------+-------|
+| Author                      | Title                                                         | Notes |
+|-----------------------------+---------------------------------------------------------------+-------|
+| Kalish, Montaguem, Mar      | Logic: Techniques of Formal Reasoning 2e                      |       |
+| Garfield, Kiteley           | Meaning and Truth                                             |       |
+| Michael Dummett             | Frege and other Philosophers                                  |       |
+| Kurt Gödel                  | Travaux de Logique (Work of Logic)                            |       |
+| Arnauld, Nicole             | La Logique ou l'art de penser (Logic; or the art of thinking) |       |
+| Venn                        | Symbolic Logic                                                |       |
+| Sachs                       | Aristotle Poetics                                             |       |
+| Robert Neidorf              | Deductive Forms                                               |       |
+| Langer                      | an introduction to Symbolic Logic                             |       |
+| Kripke                      | Naming and Necessity                                          |       |
+| Boole                       | The Laws of Thought                                           |       |
+| Nick Bostrom                | Superintelligence                                             |       |
+| Nick Bostrom                | Superintelligence                                             |       |
+| René Descartes              | Oeuvres philosophiques (1618-1637) (French)                   |       |
+| Carnap                      | Logical Syntax of Language                                    |       |
+| Lyons                       | Semantics 1, 2                                                |       |
+| Smith, Smith                | The Cambridge Companion to Husserl                            |       |
+| Kit Fine                    | Reasoning With Arbitrary Objects                              |       |
+| WV Quine                    | The Ways of Paradox and other essays                          |       |
+| FH Bradley                  | Writings on Logic and Metaphysics                             |       |
+| GE Moore                    | Principia Ethica                                              |       |
+| Augustus de Morgan          | On the Syllologism and Other Logical Writings                 |       |
+| David C Linberg             | Theories of Vision: from Al-Kindi to Kepler                   |       |
+| Wilson                      | The Invisible World                                           |       |
+| Lynn Picknett, Clive Prince | The Templar Revelation                                        |       |
+| Dummett                     | Truth and other enigmas                                       |       |
+| Stewart Shapiro             | The Limits of Logic                                           |       |
+| Nagel, Suppes, Tarski       | Logic, Methodology and Philosophy of Science                  |       |
+| Immanuel Kant               | Prolegomena to Any Future Metaphysics                         |       |
+| Albert Einstein             | Ideas and Opinions                                            |       |
+|-----------------------------+---------------------------------------------------------------+-------|
+* CS
+#+ATTR_HTML: :border 2 :frame all :rules all
+|-----------------------------------+-------------------------------------------------------------+------------|
+| Author                            | Title                                                       | Notes      |
+|-----------------------------------+-------------------------------------------------------------+------------|
+| Dromey                            | How to Solve it by Computer                                 |            |
+| Narasimha Karumanchi              | Data Structures and Algorithms Made Easy                    |            |
+| Byron Gottfried                   | Schaum's outlines - Programming with C - 2nd edition        |            |
+| Langsam, Augenstein, Tenenbaum    | Data Structures using C and C++                             |            |
+| Thiagarajan                       | National Seminar on Theoritical Computer Science            | 2 of these |
+| Aho, Lam, Sethi, Ullman           | Compilers: Principles, Techniques and Tools                 |            |
+| Keith D. Cooper, Linda Torczon    | Engineering a Compiler                                      |            |
+| Cormen, Leiserson, Rivest, Stein  | Introductin to Algorithms                                   | CLRS, CRLS |
+| Yashavant Kanetkar                | Let us C - 3rd edition                                      |            |
+| Horstmann                         | Core Java: Volume I - Fundamentals                          |            |
+| Dasgupta, Papadimitriou, Vazirani | Algorithms                                                  |            |
+| Lala                              | Quantum Computing: A Beginner's Introduction                |            |
+| Micheal Sipser                    | Theory of Computation                                       |            |
+| Linz                              | An Introduction to Formal Languages and Automata 4e         |            |
+| Hopcroft, Motwani, Ullman         | Introduction to Automata Theory, Languages, and Computation |            |
+| Richard Bird                      | Introduction to Functional Programming using Haskell 2e     |            |
+| Hennessy, Patterson               | Computer Architecture: A Quantitative Approach              |            |
+| Mark Lutz, David Ascher           | Python 2e by O'Reilly                                       |            |
+|-----------------------------------+-------------------------------------------------------------+------------|
+| Cassandras, Lafortune             | Introcution to Discrete Event Systems                       |            |
+| Imre Csiszar, Janos Korner        | Information Theory                                          |            |
+| Gerald Farin                      | Curves and Surfaces for Computer Aided Geometric Design     |            |
+|                                   |                                                             |            |
+|                                   | few printed sections from books                             |            |
+|-----------------------------------+-------------------------------------------------------------+------------|
 
+* Others
+#+ATTR_HTML: :border 2 :frame all :rules all
+|---------------------+-------------------------------------------------------------------+----------|
+| Author              | Title                                                             | Notes    |
+|---------------------+-------------------------------------------------------------------+----------|
+| Margulis Schwartz   | Five Kingdoms: An Illustrated Guide to the Phyla of Life on Earth |          |
+| Amber Habib         | The Calculus of Finance                                           |          |
+| Eswae S. Prasad     | The Future of Money                                               |          |
+|                     | a few GRE books                                                   |          |
+|                     | "arihant" books                                                   |          |
+| HC Verma            | Concepts of Physics 1, 2                                          |          |
+| Parasuraman         | Going to America                                                  |          |
+|                     | a couple TOEFL books                                              |          |
+| Vincent Persichetti | 20th Century Harmony: Creative Aspects and Practice               | 2 copies |
+|---------------------+-------------------------------------------------------------------+----------|

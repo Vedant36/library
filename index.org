@@ -2,9 +2,9 @@
 #+OPTIONS: toc:nil num:nil
 * Index
 
-1. [[./bs2.html][Math/Physics]]
-2. [[./bs1.html][Novels/Fiction]]
-3. [[./bs3.html][CS/Logic/Finance/Magazines/Misc]]
+1. [[./bs1.html][Math, Physics]]
+2. [[./bs2.html][Novels, Fiction]]
+3. [[./bs3.html][Philosophy, CS, etc]]
 
 Mail any errors in the index to vedantn@cmi.ac.in
 
@@ -18,9 +18,7 @@ Shashwat Asthana <shashwata@cmi.ac.in>
 
 When:
 
-Saturday (1900-1930) only for 1st September 2023
-
-Saturday (1800-1830)
+Saturdays (1800-1830)
 
 Where:
 
@@ -28,13 +26,44 @@ Common Room
 
 Please return books by the last week of the semester. I'll send out a mail as a reminder.
 
-* New Arrivals (updated: 3 Feb 2024)
-- Artin - Linear Algebra
-- Pascal - Œvres Completès (Complete Works)
-- Robert Greene - The Concise Laws of Human Nature
-- Robert Greene - Seduction
-- Kurt Gödel - Travaux de Logique (Work of Logic)
-- Michael Dummett - Frege and other Philosophers
-- Arnauld, Nicole - La Logique ou l'art de penser (Logic; or the art of thinking)
-- Kalish, Montague, Mar - Logic: Techniques of Formal Reasoning
-- Garfiels, Kiteley - Meaning and Truth
+* New Arrivals (10 Aug 2024)
+| Carl Sagan       | Cosmos                                        |
+| John Green       | The Fault in out Stars                        |
+| SL Loney         | Plane Trigonometry Part 1                     |
+| Serge Lang       | Fundamentals of Differential Geometry         |
+| Anthony W. Knapp | Lie Groups Beyond an Introduction 2nd Edition |
+| Anthony W. Knapp | Lie Groups Beyond an Introduction 2nd Edition |
+
+
+
+* New Arrivals (12 May 2024)
+| J Willard Gibbs                                                                                               | The Scientific Papers of J. Willard Gibbs             |
+| J Bruce Brackenridge                                                                                          | The Key to Newton's Dynamics                          |
+| PK Chattopadhyay                                                                                              | Mathematical Physics                                  |
+| Herman Melville                                                                                               | Moby Dick or, The Whale                               |
+| Jerome K Jerome                                                                                               | Three Men in a Boat                                   |
+| Byatt                                                                                                         | The Djinn in the Nightingale's Eye                    |
+| Aldous Huxley                                                                                                 | Brave New World                                       |
+| Jorge Luis Borges                                                                                             | Fictions: A collection of short stories               |
+| Upamanyu Chatterjee                                                                                           | English, August                                       |
+| Shoma Narayan                                                                                                 | Take One Arranged Marriage                            |
+| Patricia Highsmith                                                                                            | The Talented Mr Ripley                                |
+| Kasperkovitz Grau                                                                                             | 5th Wigner Symposium                                  |
+| Sissakian, Pogosyan, Vinitsky                                                                                 | Symmetry Methods in Physics Volume 2                  |
+| De Martino, De Nicola, De Siena, Fedele, Miele                                                                | New Perspectives in the Physics of Mesoscopic Systems |
+| Krishnamurthy, Pranesachar, Ranganathan, B.J. Venkatachala                                                    | Challenge and Thrill of Pre-College Mathematics       |
+| Engel                                                                                                         | Problem Solving Strategies                            |
+| Stoll                                                                                                         | Sets, Logic and Axiomatic Theories                    |
+| Colin C Adams                                                                                                 | The Knot Book                                         |
+| like the whole third shelf: added Philosophy, a Biology book and a LOT of notes copies left behind by seniors |                                                       |
+| printed books in the "Maths, Physics" section                                                                 |                                                       |
+
+* New Arrivals (30 Mar 2024)
+| Topology                           | Munkres                                  |
+| A = B                              | Petkovsek, Wilf, Zeilberger              |
+| Geometrical methods for physics    | N. Mukunda                               |
+| Superintelligence                  | Nick Bostrom                             |
+| Oeuvres philosophiques (1618-1637) | René Descartes (French)                  |
+| Candide                            | Voltaire                                 |
+| Homer                              | Odyssey, in two volumes (Greek+English)  |
+| Plato                              | Republic, in two volumes (Greek+English) |

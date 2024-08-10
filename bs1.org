@@ -1,4 +1,4 @@
-#+TITLE: Bookshelf 1: Math/Physics
+#+TITLE: Bookshelf 1: Math, Physics
 #+ATTR_HTML: :border 2 :frame all :rules all
 |------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
 | Author                                                     | Title                                                               | Notes                      |
@@ -21,9 +21,11 @@
 | Ramaswamy, Roy, Gupte                                      | Proceedings of the conference PNLD 2004                             |                            |
 | Sridhar, Ravi, Kamaraj, Vijayan                            | Interactive Physics - Volume 7 (Electromagenetism)                  |                            |
 | Khaparde, Pradhan                                          | Innovative Experimental Problems and Demonstrations in Physics      |                            |
+| SL Loney                                                   | Plane Trignometry Part 1                                            |                            |
 | I.E. Irodov                                                | Problems in General Physics                                         |                            |
 | I.E. Irodov                                                | Problems in General Physics                                         |                            |
 | I.E. Irodov                                                | Problems in General Physics                                         |                            |
+| I.E. Irodov                                                | Fundamental Laws of Mechanics                                       |                            |
 | Thornton, Marion                                           | Classical Dynamics of Particles and Systems                         |                            |
 | Yung-Kao Lim                                               | Problems and Solutions on Mechanics                                 | Lim is actually the Editor |
 | Kleppner, Kolenkow                                         | An Introduction to Mechanics                                        |                            |
@@ -34,6 +36,16 @@
 | Paul, Ehrenfest                                            | The Conceptual Foundations of the Statistical Approach in Mechanics |                            |
 | Maxwell                                                    | Matter and Motion                                                   |                            |
 | Ghatak                                                     | Optics                                                              |                            |
+| N Mukunda                                                  | Geometrical Methods for Physics                                     |                            |
+| Kasperkovitz Grau                                          | 5th Wigner Symposium                                                |                            |
+| Sissakian, Pogosyan, Vinitsky                              | Symmetry Methods in Physics Volume 2                                |                            |
+| De Martino, De Nicola, De Siena, Fedele, Miele             | New Perspectives in the Physics of Mesoscopic Systems               |                            |
+| Feynman, Leighton, Sands                                   | The Feynman Lecture on Physics: The Definitive Edition              |                            |
+| J Willard Gibbs                                            | The Scientific Papers of J. Willard Gibbs                           |                            |
+| J Bruce Brackenridge                                       | The Key to Newton's Dynamics                                        |                            |
+| PK Chattopadhyay                                           | Mathematical Physics                                                |                            |
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
+| Dummit, Foote                                              | Abstract Algebra                                                    |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                   |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                   |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                   |                            |
@@ -50,7 +62,8 @@
 | Gilbert Strang                                             | Linear Algebra and Its Applications                                 |                            |
 | Gilbert Strang                                             | Linear Algebra and Its Applications                                 |                            |
 | Nikolsky, Potapov                                          | Algebra                                                             |                            |
-| S. Kumaresan                                               | Linear Algebra - A Geometric Approach                               |                            |
+| Atiyah, MacDonald                                          | Introduction to Commutative Algebra                                 |                            |
+| S. Kumaresan                                               | Linear Algebra - A Geometric Approach                               | lost                       |
 | Halmos                                                     | Finite-Dimensional Vector Spaces                                    |                            |
 | Niven, Zuckerman, Montgomery                               | An Introduction to The Theory of Numbers                            |                            |
 | I.A. Maron                                                 | Problems in Calculus of One Variable                                |                            |
@@ -72,7 +85,9 @@
 | Apostol                                                    | Calculus - 2nd edition                                              |                            |
 | Apostol                                                    | Calculus - 2nd edition                                              |                            |
 | Apostol                                                    | Calculus - 2nd edition                                              |                            |
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
 | David C. Kay                                               | Shcaum's outlines - Tensor Calculus                                 |                            |
+| Krishnamurthy, Pranesachar, Ranganathan, B.J. Venkatachala | Challenge and Thrill of Pre-College Mathematics                     |                            |
 | Krishnamurthy, Pranesachar, Ranganathan, B.J. Venkatachala | Challenge and Thrill of Pre-College Mathematics                     |                            |
 | John B. Conway                                             | Functions of One Complex Variable                                   |                            |
 | John B. Fraleigh                                           | A First Course in Abstract Algebra                                  |                            |
@@ -96,8 +111,10 @@
 | Munkres                                                    | Topology - Second Edition                                           |                            |
 | Munkres                                                    | Topology - Second Edition                                           |                            |
 | Munkres                                                    | Topology - Second Edition                                           |                            |
+| Munkres                                                    | Topology - Second Edition                                           |                            |
 | Spiegel                                                    | Theory and Problems of Vector Analysis - Schaum's Outline Series    |                            |
 | Coddington                                                 | An Introduction to Ordinary Differential Equations                  |                            |
+| Engel                                                      | Problem Solving Strategies                                          |                            |
 | Balakrishnan                                               | Combinatorics - Schaum's Theory and Problems                        |                            |
 | Leithold                                                   | The Calculus with Analytic Geometry                                 |                            |
 | Debra Ross                                                 | Master Math: Calculus                                               |                            |
@@ -107,8 +124,58 @@
 | Jain, Ahmad                                                | Metric Spaces - Second Edition                                      |                            |
 | Niven, Zuckerman, Montgomery                               | An Introduction to the Theory of Numbers                            |                            |
 | West                                                       | Introduction to Graph Theory - Second Edition                       |                            |
+| Biswal, Purna Chandra                                      | Discrete Mathematics and Graph Theory                               |                            |
 | Ross                                                       | Elementary Analysis: The Theory of Calculus                         |                            |
 | Lindsay N. Childs                                          | A concrete introduction to higher algebra                           |                            |
 | Modak, Katre, Acharya, Sholapurkar                         | An Excursion in Mathematics                                         |                            |
-| Pascal                                                     | Œvres Completès (Complete Works)                                    |                            |
+| Colin C Adams                                              | The Knot Book                                                       |                            |
+| Serge Lang                                                 | Fundamentals of Differential Geometry                               |                            |
+| Anthony W. Knapp                                           | Lie Groups Beyond an Introduction 2nd Edition                       |                            |
+| Anthony W. Knapp                                           | Lie Groups Beyond an Introduction 2nd Edition                       |                            |
 |------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
+| Pascal                                                     | Œvres Completès (Complete Works)                                    |                            |
+| Petkovsek, Wilf, Zeilberger                                | A=B                                                                 |                            |
+| Stoll                                                      | Sets, Logic and Axiomatic Theories                                  |                            |
+| Kaufmann                                                   | A Crash Course in Mathematica                                       |                            |
+| Venkatachala                                               | Functional Equations: A Problem Solving Approach                    |                            |
+| Sheldon Ross                                               | Introductory Statistics                                             |                            |
+|------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
+* Printed Books
+#+ATTR_HTML: :border 2 :frame all :rules all
+|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
+| Author                               | Title                                                                       | Notes                                       |
+|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
+| Kikoin, Kikoin                       | Molecular Physics                                                           |                                             |
+| Joos                                 | Theoritical Physics                                                         |                                             |
+| Symon                                | Mechanics 3e                                                                |                                             |
+| Irene, Verona, Schensted             | A Course on the Application of Group Theory to Quantum Mechanics            |                                             |
+| Wolfgang Demtroder                   | Aroms, Molecules and Photons                                                |                                             |
+| Alex J Dragt                         | Lie Methods for Nonlinear Dynamics with Applications to Accelerator Physics |                                             |
+| ECG Sudarshan                        | Foundations of Quantum Mechanics and Quantum Field Theory                   |                                             |
+| Murray Gell-mann                     | Lectures on The Weak Interaction of the Strongly Interacting Particles      |                                             |
+| Peskin, Schroeder                    | An Introduction to Quantum Field Theory                                     | only some chapters, solutions and notes     |
+|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
+| John B Conway                        | Functions of One Complex Variable 2e                                        |                                             |
+| Stewart, Tall                        | Algebraic Number Theory                                                     |                                             |
+| Blyth, Robertson                     | Algebra through Practice                                                    |                                             |
+| Fulton, Harris                       | Representation Theory: A First Course                                       |                                             |
+| ANdrew Baker                         | Representations of Finite Groups                                            |                                             |
+| Paul R Halmos                        | Finite Dimensional Vector Spaces                                            |                                             |
+| Narsimhan, Raghavan, Rangachari, Lal | Algebraic Number Theory                                                     |                                             |
+| Spivak                               | Calculus on Manifolds                                                       |                                             |
+| Hartshorne                           | Algebraic Geometry                                                          |                                             |
+| Ahlfors                              | Complex Analysis                                                            |                                             |
+| -                                    | Study Material on Real Analysis & Topology of Metric Spaces                 |                                             |
+| Rudin                                | Principles of Mathematical Analysis                                         |                                             |
+| Nathan Jacobson                      | Basic Algebra I                                                             |                                             |
+| Dmitri D Vvedensky                   | Printed version of his group theory course                                  | http://cmth.ph.ic.ac.uk/people/d.vvedensky/ |
+| Anant R Shastri                      | Lectures Notes in Algebraic Topology                                        |                                             |
+| Johnsonbaugh, Pfaffenberger          | Foundations of Mathemtical Analysis                                         |                                             |
+| Richard S Palais                     | A Modern Course on Curves and Surfaces                                      |                                             |
+| Sen, Ghosh, Mukhopadhyay             | Topics in Abstract Algebra 2e                                               |                                             |
+| Henri Cartan                         | Elementary Theory of Analytic Functions of One Or Several Complex Variables |                                             |
+| Stein, Shakarchi                     | Complex Analysis                                                            |                                             |
+| Grimmett, Stirzaker                  | Probability and Random Processes                                            |                                             |
+| Ross Hansberger                      | Mathematical Gems                                                           | Interesting Problems in Math                |
+| Gerald B Folland                     | Real Analysis                                                               |                                             |
+|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
