@@ -3,8 +3,6 @@
 |-----------------------------------------+------------------------------------------------------------+---------------------------------|
 | Author                                  | Title                                                      | Notes                           |
 |-----------------------------------------+------------------------------------------------------------+---------------------------------|
-| Robin Cook                              | Nano                                                       |                                 |
-| Laurence Gardener                       | The Magdalene Legacy                                       |                                 |
 | Jeffery Archer                          | A Prison Diary                                             |                                 |
 | Jeffery Archer                          | A Prison Diary                                             |                                 |
 | Jeffery Archer                          | A Prison Diary II                                          |                                 |
@@ -38,13 +36,24 @@
 | J.K. Rowling                            | Harry Potter and the Deathly Hallows                       |                                 |
 | J.K. Rowling                            | Harry Potter and the Half-Blood Prince                     |                                 |
 | C.S. Lewis                              | The Chronicles of Narnia                                   | All the books                   |
-| Jerome K Jerome                         | Three Men in a Boat                                        |                                 |
-| Byatt                                   | The Djinn in the Nightingale's Eye                         |                                 |
-| Aldous Huxley                           | Brave New World                                            |                                 |
-| Jorge Luis Borges                       | Fictions: A collection of short stories                    | includes the library of babel   |
-| Upamanyu Chatterjee                     | English, August                                            |                                 |
-| Shoma Narayan                           | Take One Arranged Marriage                                 |                                 |
+|-----------------------------------------+------------------------------------------------------------+---------------------------------|
+| Robin Cook                              | Nano                                                       |                                 |
+| Laurence Gardener                       | The Magdalene Legacy                                       |                                 |
+| Herman Melville                         | Moby Dick or, The Whale                                    |                                 |
 | Patricia Highsmith                      | The Talented Mr Ripley                                     |                                 |
+| Shoma Narayan                           | Take One Arranged Marriage                                 |                                 |
+| Upamanyu Chatterjee                     | English, August                                            |                                 |
+| Jorge Luis Borges                       | Fictions: A collection of short stories                    | includes the library of babel   |
+| Aldous Huxley                           | Brave New World                                            |                                 |
+| Byatt                                   | The Djinn in the Nightingale's Eye                         |                                 |
+| Jerome K Jerome                         | Three Men in a Boat                                        |                                 |
+| Agatha Christie                         | Hercule Porot's Christmas                                  |                                 |
+| Agatha Christie                         | Partners in Crime                                          |                                 |
+| James Baldwin                           | Giovanni's Room                                            |                                 |
+| Novoneel Chakroborty                    | half-torn hearts                                           |                                 |
+| Anthony Doerr                           | All the Light We Cannot See                                |                                 |
+| John Green                              | Looking for Alaska                                         |                                 |
+| nicola yoon                             | The Sun is also a Star                                     |                                 |
 |-----------------------------------------+------------------------------------------------------------+---------------------------------|
 | Upamanyu Chaterjee                      | The Last Burden                                            |                                 |
 | Sadakat Kadri                           | The Trial                                                  |                                 |
@@ -87,7 +96,6 @@
 | Robert Greene                           | The Concise Laws of Human Nature                           |                                 |
 | Robert Greene                           | Seduction                                                  |                                 |
 | Voltaire                                | Candide                                                    |                                 |
-| Herman Melville                         | Moby Dick or, The Whale                                    |                                 |
 | Carl Sagan                              | Cosmos                                                     |                                 |
 | John Green                              | The Fault in out Stars                                     |                                 |
 |-----------------------------------------+------------------------------------------------------------+---------------------------------|

@@ -1,95 +1,110 @@
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Username                 | Username    | Roll No.  | Batch    |  Time |     Date | Author                           | Title                                                      | Returned Date |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Sumit Rajput             |             | -         | BSc 1    | 14:22 | 10.09.22 | Michael Artin                    | Algebra                                                    |      26.11.22 |
-| Shrinidhi TS             |             | -         | MSc CS 1 | 14:49 | 10.09.22 | Hernstein                        | Topics in Algebra                                          |      30.11.22 |
-| Suhita Hazra             |             | -         | PhD 2    | 15:32 | 10.09.22 | Apostol                          | Mathematical analysis                                      |      30.11.22 |
-| Suhita Hazra             |             | -         | PhD 2    | 15:32 | 10.09.22 | Rudin                            | Prinicples of mathematical analysis                        |      20.11.22 |
-| shreenish                |             | -         | BSc 1    | 17:38 | 13.09.22 | Jhumpa Lahiri                    | The Namesake                                               |      05.01.23 |
-| Abdul Aleem              |             | -         | BSc 2    | 18:36 | 03.10.22 | L.D.Landau, E.M. Lifshitz        | Quantum Mechanics (Non-relativistic Theory)                |      13.11.22 |
-| Ishaan Verma             |             | -         | BSc 2    | 19:42 | 03.10.22 | Dromey                           | How to Solve it by Computer                                |      29.11.22 |
-| Priyangshu Ghosh         |             | -         | BSc 1    | 20:00 | 03.10.22 | Michael Artin                    | Algebra - 2nd edition                                      |      26.11.22 |
-| Shakti Chauhan           |             | -         | BSc 2    | 23:46 | 13.10.22 | Herstein                         | Topics in Algebra                                          |      04.05.23 |
-| Shakti Chauhan           |             | -         | BSc 2    | 23:46 | 13.10.22 | Rudin                            | Principles of Mathematical Analysis                        |      04.05.23 |
-| Bhavya Sangwan           |             | -         | BSc 2    | 23:46 | 13.10.22 | Artin                            | Algebra                                                    |      12.01.23 |
-| Bhavya Sangwan           |             | -         | BSc 2    | 23:46 | 13.10.22 | Goldstein, Poole, Safko          | Classical Mechanics                                        |      12.01.23 |
-| Nabin Kumar Sahoo        |             | -         | MSc 1    | 18:26 | 08.11.22 | Umberto Eco                      | On Literature                                              |      30.11.22 |
-| Shankadip Bhattacharjee  |             | BMP202005 |          | 18:23 | 15.11.22 | CLRS                             | Introduction to Algorithms                                 |      30.11.22 |
-| Shubham Kumar            | shubhamk    |           |          | 12:24 | 13.11.22 | L.D.Landau, E.M. Lifshitz        | Quantum Mechanics (Non-relativistic Theory)                |      05.01.23 |
-| Amit Pareek              | amitp       | -         | BSc CS 2 |     - |        - | L. Frank Baum                    | Wizard of Oz                                               |      26.11.22 |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Rishabh Sharma           |             | BMC202144 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                   |      28.04.23 |
-| Shrimadhi Srikanth       |             | BMC202167 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                   |      30.04.23 |
-| Naveen Surya             | naveensurya |           |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                   |      30.04.23 |
-| Priyangshu Ghosh         |             | BMC202240 |          | 19:28 | 11.01.23 | Apostol                          | Mathematical Analysis                                      |      30.04.23 |
-| Priyangshu Ghosh         |             | BMC202240 |          | 19:28 | 11.01.23 | Herstein                         | Topics in Algebra                                          |      30.04.23 |
-| Srinivas                 |             | MCS202109 |          | 21:06 | 11.01.23 | J.R.R Tolkein                    | The Hobbit                                                 |      30.04.23 |
-| Bhavya Sangwan           |             | BMP202104 |          | 22:55 | 12.01.23 | Arthur Engel                     | Problem-Solving Strategies                                 |      04.05.23 |
-| Bhavya Sangwan           |             | BMP202104 |          | 22:55 | 12.01.23 | Jenkins, White                   | Fundamentals of Optics                                     |      04.05.23 |
-| Bhavya Sangwan           |             | BMP202104 |          | 22:55 | 12.01.23 | Hatcher                          | Algebraic Topology                                         |      04.05.23 |
-| Ankan Mukherjee          |             | BMP202203 |          | 18:21 | 28.01.23 | Rudin                            | Analysis                                                   |      30.04.23 |
-| Adarsh T                 |             | BMP202001 |          | 16:28 | 29.01.23 | Coddington                       | Intro to ODE                                               |      29.04.23 |
-| T Karthik Rajendra       |             | BMC202046 |          | 18:23 | 25.02.23 | Dromey                           | How to Solve it                                            |      01.04.23 |
-| T Karthik Rajendra       |             | BMC202046 |          | 18:23 | 25.02.23 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                  |      28.04.23 |
-| T Karthik Rajendra       |             | BMC202046 |          | 18:23 | 25.02.23 | Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools               |      01.04.23 |
-| Atharva Raje             |             | MMA202202 |          | 18:40 | 25.02.23 | John B. Conway                   | Functions of One Complex Variable                          |      28.04.23 |
-| Vedant Neema             |             | BMP202208 |          | 18:48 | 25.02.23 | Walter Rudin                     | Principles of Mathematical Analysis                        |      30.04.23 |
-| Ishaan Verma             |             | BMP202126 |          | 18:35 | 18.03.23 | Keith D. Cooper, Linda Torczon   | Engineering a Compiler                                     |      04.05.23 |
-| Swaminathan Rajagopalan  |             | BMC202184 |          | 19:46 | 21.03.23 | P.G. Wodehouse                   | The World of Psmith (omnibus)                              |      28.04.23 |
-| Anhad Chaturvedi         |             |           |          |     * |        * | Feynman, Leighton, Sands         | The Feynman Lectures on Physics Volume 2                   |               |
-| Sahil Lakhmani           |             | BMC202248 |          | 18:00 | 13.04.23 | Micheal Artin                    | Algebra - 2nd Edition                                      |      29.04.23 |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Suchir Kaustav           |             | BMC202265 |          | 19:05 | 02.09.23 | J.R.R. Tolkein                   | The Hobbit                                                 |      09.09.23 |
-| Qusai Nampurwala         |             | BMC202322 |          | 19:13 | 02.09.23 | M. Artin                         | Algebra                                                    |      01.12.23 |
-| Aditya Oscar             |             | BMC202303 |          | 19:19 | 02.09.23 | Hoffman, Kunze                   | Linear Algebra                                             |      01.12.23 |
-| Aditya Oscar             |             | BMC202303 |          | 19:19 | 02.09.23 | Rudin                            | Principles of Mathematical Analysis                        |      01.12.23 |
-| Priyangshu Ghosh         |             | BMC202240 |          | 19:20 | 02.09.23 | CLRS                             | Introduction to Algorithms                                 |      01.12.23 |
-| Priyangshu Ghosh         |             | BMC202240 |          | 19:20 | 02.09.23 | Conway                           | Functions of One Complex Variable                          |      06.01.24 |
-| Priyangshu Ghosh         |             | BMC202240 |          | 19:20 | 02.09.23 | Hatcher                          | Algebraic Topology                                         |      01.12.23 |
-| Rishabh Sharma           |             | BMC202144 |          | 19:23 | 02.09.23 | Charlotte Bronte                 | Jane Eyre                                                  |      01.12.23 |
-| Rishabh Sharma           |             | BMC202144 |          | 19:23 | 02.09.23 | Jane Austen                      | Pride and Prejudice                                        |      01.12.23 |
-| Anurag Gupta             |             | BMC202309 |          | 19:25 | 02.09.23 | Artin                            | Algebra                                                    |      01.12.23 |
-| Anurag Gupta             |             | BMC202309 |          | 19:25 | 02.09.23 | Goldstein, Poole, Safko          | Classical Mechanics - Third edition                        |               |
-| Anurag Gupta             |             | BMC202309 |          | 19:25 | 02.09.23 | Yashavant Kanetkar               | Let Us C                                                   |      01.12.23 |
-| Subham Mal               |             | BMC202264 |          | 23:24 | 26.09.23 | Artin                            | Algebra                                                    |      01.12.23 |
-| Subham Mal               |             | BMC202264 |          | 23:24 | 26.09.23 | Hoffman, Kunze                   | Linear Algebra                                             |      01.12.23 |
-| Subham Mal               |             | BMC202264 |          | 23:24 | 26.09.23 | Apostol                          | Mathematical Analysis - 2nd edition                        |      01.12.23 |
-| Sahil Lakhmani           |             | BMC202248 |          | 23:24 | 26.09.23 | Artin                            | Algebra                                                    |      01.12.23 |
-| Qusai Nampurwala         |             | BMC202322 |          | 18:48 | 21.10.23 | Jules Verne                      | Round the World in Eighty Days                             |      01.12.23 |
-| Shreenish Shinde         |             | BMC202255 |          | 16:30 | 07.11.23 | Chuck palahniuk                  | Diary                                                      |      20.01.24 |
-| Sumit Rajpoot            |             | BMC202267 |          | 18:20 | 25.11.23 | M. Artin                         | Algebra                                                    |      01.12.23 |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Subham Mal               |             | BMC202264 |          | 21:40 | 04.01.24 | Hoffman, Kunze                   | Linear Algebra                                             |      11.05.24 |
-| Subham Mal               |             | BMC202264 |          | 21:40 | 04.01.24 | M. Artin                         | Algebra                                                    |      11.05.24 |
-| Suneet Nitin Patil       |             | MCS202315 |          | 18:25 | 06.01.24 | M. Artin                         | Algebra                                                    |      11.05.24 |
-| Qusai Nampurwala         |             | BMC202322 |          | 18:35 | 06.01.24 | M. Artin                         | Algebra                                                    |      14.05.24 |
-| Sibasis                  |             | BMC202255 |          | 18:20 | 15.01.24 | Dummit, Foote                    | Algebra                                                    |      11.05.24 |
-| Avishek                  |             | BMC202216 |          | 18:40 | 15.01.24 | Munkres                          | Topology                                                   |      11.05.24 |
-| Aditya Oscar Chakraborty |             | BMP202304 |          | 18:16 | 22.01.24 | Herstein                         | Topics in Algebra                                          |      11.05.24 |
-| Subham Mal               |             | BMC202264 |          | 18:18 | 22.01.24 | Herstein                         | Topics in Algebra                                          |      11.05.24 |
-| Ryan Hota                |             | BMC202247 |          | 18:20 | 22.01.24 | Conway                           | Functions in One Complex Variable                          |      11.05.24 |
-| Qusai Nampurwala         |             | BMC202322 |          | 18:55 | 03.02.24 | Feller                           | An Introduction to Probability Theory and its Applications |      14.05.24 |
-| Qusai Nampurwala         |             | BMC202322 |          | 18:55 | 03.02.24 | Rudin                            | Principles of Mathematical Analysis                        |      14.05.24 |
-| Avishek Hazra            |             | BMC202316 |          | 18:10 | 04.02.24 | Jhumpa Lahiri                    | The Namesake                                               |      11.05.24 |
-| Bhavya Sangwan           |             | BMP202104 |          | 22:55 | 20.02.24 | Hatcher                          | Algebraic Topology                                         |      04.05.23 |
-| Bhavya Sangwan           |             | BMP202104 |          | 22:55 | 20.02.24 | Rudin                            | Principles of Mathematical Analysis                        |      04.05.23 |
-| Mohit Jain               |             | MDS202219 |          |       | 12.01.24 | Bhattacharya                     | You Must Like Cricket                                      |      11.05.24 |
-| Debesh                   |             |           |          |       |          | 2 books                          |                                                            |               |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
-| Pratyusha                |             | BMC202436 |          |       |          | Micheal Artin                    | Algebra                                                    |               |
-|                          |             |           |          |       |          | Terence Tao                      | Analysis                                                   |               |
-|                          |             |           |          |       |          |                                  | intro to graph theory                                      |               |
-| Raghuraj                 |             | BMC202323 |          |       |          | Micheal Artin                    | Algebra                                                    |               |
-|                          |             |           |          |       |          | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                  |               |
-| Gyanashree               |             |           |          |       |          | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                  |               |
-|                          |             |           |          |       |          | Biswal, Purna Chandra            | Discrete Mathematics and Graph Theory                      |               |
-| Anwess Kumar Das         |             | BMC202410 |          |       |          | Stephen King                     | It                                                         |               |
-| Aryan Badgujar           |             |           |          |       |          | Sheldon Ross                     | Analysis                                                   |               |
-|                          |             |           |          |       |          |                                  | excursion                                                  |               |
-|                          |             |           |          |       |          | Micheal Artin                    | Algebra                                                    |               |
-| Rajarshi                 |             | BMP202206 |          |       |          | Harthstone                       | Algebraic Geometry (printed)                               |               |
-| Titan                    |             |           |          |       |          | Micheal Artin                    | Algebra                                                    |               |
-|                          |             |           |          |       |          | Walter Rudin                     | Analysis                                                   |               |
-|                          |             |           |          |       |          | Halliday, Resnick, Walker        | Fundamentals of Physics                                    |               |
-| Aniruda                  |             | BMC2024   |          |       |          | Micheal Artin                    | Algebra                                                    |               |
-|--------------------------+-------------+-----------+----------+-------+----------+----------------------------------+------------------------------------------------------------+---------------|
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Username                 | Roll No.  | Batch    |  Time |     Date | Author                           | Title                                                       | Returned Date |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Sumit Rajput             | -         | BSc 1    | 14:22 | 10.09.22 | Michael Artin                    | Algebra                                                     |      26.11.22 |
+| Shrinidhi TS             | -         | MSc CS 1 | 14:49 | 10.09.22 | Hernstein                        | Topics in Algebra                                           |      30.11.22 |
+| Suhita Hazra             | -         | PhD 2    | 15:32 | 10.09.22 | Apostol                          | Mathematical analysis                                       |      30.11.22 |
+| Suhita Hazra             | -         | PhD 2    | 15:32 | 10.09.22 | Rudin                            | Prinicples of mathematical analysis                         |      20.11.22 |
+| shreenish                | -         | BSc 1    | 17:38 | 13.09.22 | Jhumpa Lahiri                    | The Namesake                                                |      05.01.23 |
+| Abdul Aleem              | -         | BSc 2    | 18:36 | 03.10.22 | L.D.Landau, E.M. Lifshitz        | Quantum Mechanics (Non-relativistic Theory)                 |      13.11.22 |
+| Ishaan Verma             | -         | BSc 2    | 19:42 | 03.10.22 | Dromey                           | How to Solve it by Computer                                 |      29.11.22 |
+| Priyangshu Ghosh         | -         | BSc 1    | 20:00 | 03.10.22 | Michael Artin                    | Algebra - 2nd edition                                       |      26.11.22 |
+| Shakti Chauhan           | -         | BSc 2    | 23:46 | 13.10.22 | Herstein                         | Topics in Algebra                                           |      04.05.23 |
+| Shakti Chauhan           | -         | BSc 2    | 23:46 | 13.10.22 | Rudin                            | Principles of Mathematical Analysis                         |      04.05.23 |
+| Bhavya Sangwan           | -         | BSc 2    | 23:46 | 13.10.22 | Artin                            | Algebra                                                     |      12.01.23 |
+| Bhavya Sangwan           | -         | BSc 2    | 23:46 | 13.10.22 | Goldstein, Poole, Safko          | Classical Mechanics                                         |      12.01.23 |
+| Nabin Kumar Sahoo        | -         | MSc 1    | 18:26 | 08.11.22 | Umberto Eco                      | On Literature                                               |      30.11.22 |
+| Shankadip Bhattacharjee  | BMP202005 |          | 18:23 | 15.11.22 | CLRS                             | Introduction to Algorithms                                  |      30.11.22 |
+| Shubham Kumar            |           |          | 12:24 | 13.11.22 | L.D.Landau, E.M. Lifshitz        | Quantum Mechanics (Non-relativistic Theory)                 |      05.01.23 |
+| Amit Pareek              | -         | BSc CS 2 |     - |        - | L. Frank Baum                    | Wizard of Oz                                                |      26.11.22 |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Rishabh Sharma           | BMC202144 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                    |      28.04.23 |
+| Shrimadhi Srikanth       | BMC202167 |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                    |      30.04.23 |
+| Naveen Surya             |           |          | 18:50 | 03.01.23 | Munkres                          | Topology                                                    |      30.04.23 |
+| Priyangshu Ghosh         | BMC202240 |          | 19:28 | 11.01.23 | Apostol                          | Mathematical Analysis                                       |      30.04.23 |
+| Priyangshu Ghosh         | BMC202240 |          | 19:28 | 11.01.23 | Herstein                         | Topics in Algebra                                           |      30.04.23 |
+| Srinivas                 | MCS202109 |          | 21:06 | 11.01.23 | J.R.R Tolkein                    | The Hobbit                                                  |      30.04.23 |
+| Bhavya Sangwan           | BMP202104 |          | 22:55 | 12.01.23 | Arthur Engel                     | Problem-Solving Strategies                                  |      04.05.23 |
+| Bhavya Sangwan           | BMP202104 |          | 22:55 | 12.01.23 | Jenkins, White                   | Fundamentals of Optics                                      |      04.05.23 |
+| Bhavya Sangwan           | BMP202104 |          | 22:55 | 12.01.23 | Hatcher                          | Algebraic Topology                                          |      04.05.23 |
+| Ankan Mukherjee          | BMP202203 |          | 18:21 | 28.01.23 | Rudin                            | Analysis                                                    |      30.04.23 |
+| Adarsh T                 | BMP202001 |          | 16:28 | 29.01.23 | Coddington                       | Intro to ODE                                                |      29.04.23 |
+| T Karthik Rajendra       | BMC202046 |          | 18:23 | 25.02.23 | Dromey                           | How to Solve it                                             |      01.04.23 |
+| T Karthik Rajendra       | BMC202046 |          | 18:23 | 25.02.23 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                   |      28.04.23 |
+| T Karthik Rajendra       | BMC202046 |          | 18:23 | 25.02.23 | Aho, Lam, Sethi, Ullman          | Compilers - Principles, Techniques and Tools                |      01.04.23 |
+| Atharva Raje             | MMA202202 |          | 18:40 | 25.02.23 | John B. Conway                   | Functions of One Complex Variable                           |      28.04.23 |
+| Vedant Neema             | BMP202208 |          | 18:48 | 25.02.23 | Walter Rudin                     | Principles of Mathematical Analysis                         |      30.04.23 |
+| Ishaan Verma             | BMP202126 |          | 18:35 | 18.03.23 | Keith D. Cooper, Linda Torczon   | Engineering a Compiler                                      |      04.05.23 |
+| Swaminathan Rajagopalan  | BMC202184 |          | 19:46 | 21.03.23 | P.G. Wodehouse                   | The World of Psmith (omnibus)                               |      28.04.23 |
+| Anhad Chaturvedi         |           |          |     * |        * | Feynman, Leighton, Sands         | The Feynman Lectures on Physics Volume 2                    |               |
+| Sahil Lakhmani           | BMC202248 |          | 18:00 | 13.04.23 | Micheal Artin                    | Algebra - 2nd Edition                                       |      29.04.23 |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Suchir Kaustav           | BMC202265 |          | 19:05 | 02.09.23 | J.R.R. Tolkein                   | The Hobbit                                                  |      09.09.23 |
+| Qusai Nampurwala         | BMC202322 |          | 19:13 | 02.09.23 | M. Artin                         | Algebra                                                     |      01.12.23 |
+| Aditya Oscar             | BMC202303 |          | 19:19 | 02.09.23 | Hoffman, Kunze                   | Linear Algebra                                              |      01.12.23 |
+| Aditya Oscar             | BMC202303 |          | 19:19 | 02.09.23 | Rudin                            | Principles of Mathematical Analysis                         |      01.12.23 |
+| Priyangshu Ghosh         | BMC202240 |          | 19:20 | 02.09.23 | CLRS                             | Introduction to Algorithms                                  |      01.12.23 |
+| Priyangshu Ghosh         | BMC202240 |          | 19:20 | 02.09.23 | Conway                           | Functions of One Complex Variable                           |      06.01.24 |
+| Priyangshu Ghosh         | BMC202240 |          | 19:20 | 02.09.23 | Hatcher                          | Algebraic Topology                                          |      01.12.23 |
+| Rishabh Sharma           | BMC202144 |          | 19:23 | 02.09.23 | Charlotte Bronte                 | Jane Eyre                                                   |      01.12.23 |
+| Rishabh Sharma           | BMC202144 |          | 19:23 | 02.09.23 | Jane Austen                      | Pride and Prejudice                                         |      01.12.23 |
+| Anurag Gupta             | BMC202309 |          | 19:25 | 02.09.23 | Artin                            | Algebra                                                     |      01.12.23 |
+| Anurag Gupta             | BMC202309 |          | 19:25 | 02.09.23 | Goldstein, Poole, Safko          | Classical Mechanics - Third edition                         |               |
+| Anurag Gupta             | BMC202309 |          | 19:25 | 02.09.23 | Yashavant Kanetkar               | Let Us C                                                    |      01.12.23 |
+| Subham Mal               | BMC202264 |          | 23:24 | 26.09.23 | Artin                            | Algebra                                                     |      01.12.23 |
+| Subham Mal               | BMC202264 |          | 23:24 | 26.09.23 | Hoffman, Kunze                   | Linear Algebra                                              |      01.12.23 |
+| Subham Mal               | BMC202264 |          | 23:24 | 26.09.23 | Apostol                          | Mathematical Analysis - 2nd edition                         |      01.12.23 |
+| Sahil Lakhmani           | BMC202248 |          | 23:24 | 26.09.23 | Artin                            | Algebra                                                     |      01.12.23 |
+| Qusai Nampurwala         | BMC202322 |          | 18:48 | 21.10.23 | Jules Verne                      | Round the World in Eighty Days                              |      01.12.23 |
+| Shreenish Shinde         | BMC202255 |          | 16:30 | 07.11.23 | Chuck palahniuk                  | Diary                                                       |      20.01.24 |
+| Sumit Rajpoot            | BMC202267 |          | 18:20 | 25.11.23 | M. Artin                         | Algebra                                                     |      01.12.23 |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Subham Mal               | BMC202264 |          | 21:40 | 04.01.24 | Hoffman, Kunze                   | Linear Algebra                                              |      11.05.24 |
+| Subham Mal               | BMC202264 |          | 21:40 | 04.01.24 | M. Artin                         | Algebra                                                     |      11.05.24 |
+| Suneet Nitin Patil       | MCS202315 |          | 18:25 | 06.01.24 | M. Artin                         | Algebra                                                     |      11.05.24 |
+| Qusai Nampurwala         | BMC202322 |          | 18:35 | 06.01.24 | M. Artin                         | Algebra                                                     |      14.05.24 |
+| Sibasis                  | BMC202255 |          | 18:20 | 15.01.24 | Dummit, Foote                    | Algebra                                                     |      11.05.24 |
+| Avishek                  | BMC202216 |          | 18:40 | 15.01.24 | Munkres                          | Topology                                                    |      11.05.24 |
+| Aditya Oscar Chakraborty | BMP202304 |          | 18:16 | 22.01.24 | Herstein                         | Topics in Algebra                                           |      11.05.24 |
+| Subham Mal               | BMC202264 |          | 18:18 | 22.01.24 | Herstein                         | Topics in Algebra                                           |      11.05.24 |
+| Ryan Hota                | BMC202247 |          | 18:20 | 22.01.24 | Conway                           | Functions in One Complex Variable                           |      11.05.24 |
+| Qusai Nampurwala         | BMC202322 |          | 18:55 | 03.02.24 | Feller                           | An Introduction to Probability Theory and its Applications  |      17.08.24 |
+| Qusai Nampurwala         | BMC202322 |          | 18:55 | 03.02.24 | Rudin                            | Principles of Mathematical Analysis                         |      17.08.24 |
+| Avishek Hazra            | BMC202316 |          | 18:10 | 04.02.24 | Jhumpa Lahiri                    | The Namesake                                                |      11.05.24 |
+| Bhavya Sangwan           | BMP202104 |          | 22:55 | 20.02.24 | Hatcher                          | Algebraic Topology                                          |      04.05.23 |
+| Bhavya Sangwan           | BMP202104 |          | 22:55 | 20.02.24 | Rudin                            | Principles of Mathematical Analysis                         |      04.05.23 |
+| Mohit Jain               | MDS202219 |          |       | 12.01.24 | Bhattacharya                     | You Must Like Cricket                                       |      11.05.24 |
+| Debesh                   |           |          |       |          | 2 books                          |                                                             |               |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
+| Pratyusha                | BMC202436 |          | 18:30 | 10.08.24 | Micheal Artin                    | Algebra                                                     |               |
+|                          |           |          | 18:30 | 10.08.24 | Terence Tao                      | Analysis                                                    |               |
+|                          |           |          | 18:30 | 10.08.24 |                                  | intro to graph theory                                       |               |
+| Raghuraj                 | BMC202323 |          | 18:30 | 10.08.24 | Micheal Artin                    | Algebra                                                     |               |
+|                          |           |          | 18:30 | 10.08.24 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                   |               |
+| Gyanashree               |           |          | 18:30 | 10.08.24 | Cormen, Leiserson, Rivest, Stein | Introductin to Algorithms                                   |               |
+|                          |           |          | 18:30 | 10.08.24 | Biswal, Purna Chandra            | Discrete Mathematics and Graph Theory                       |               |
+| Anwess Kumar Das         | BMC202410 |          | 18:30 | 10.08.24 | Stephen King                     | It                                                          |               |
+| Aryan Badgujar           |           |          | 18:30 | 10.08.24 | Sheldon Ross                     | Analysis                                                    |      31.08.24 |
+|                          |           |          | 18:30 | 10.08.24 |                                  | excursion                                                   |      31.08.24 |
+|                          |           |          | 18:30 | 10.08.24 | Micheal Artin                    | Algebra                                                     |      31.08.24 |
+| Rajarshi                 | BMP202206 |          | 18:30 | 10.08.24 | Harthstone                       | Algebraic Geometry (printed)                                |               |
+| Titan                    |           |          | 18:30 | 10.08.24 | Micheal Artin                    | Algebra                                                     |               |
+|                          |           |          | 18:30 | 10.08.24 | Walter Rudin                     | Analysis                                                    |               |
+|                          |           |          | 18:30 | 10.08.24 | Halliday, Resnick, Walker        | Fundamentals of Physics                                     |               |
+| Aniruda                  | BMC2024   |          | 18:30 | 10.08.24 | Micheal Artin                    | Algebra                                                     |               |
+|                          |           |          | 18:30 | 17.08.24 |                                  |                                                             |               |
+| Shamim Akhtar            | BMC2024   |          | 18:30 | 17.08.24 | Walter Rudin                     | Analysis                                                    |               |
+|                          |           |          | 18:30 | 17.08.24 | Terence Tao                      | Analysis                                                    |               |
+|                          |           |          | 18:30 | 17.08.24 | Sheldon Ross                     | Introduction to Probability and Statistics                  |               |
+| Qusai Nampurwala         | BMC202322 |          | 18:30 | 17.08.24 | Spivak                           | Calculus on Manifolds (Printed)                             |               |
+| Raghuraj                 | BMC202323 |          | 18:30 | 17.08.24 | Hopcroft, Motwani, Ullman        | Introduction to Automata Theory, Languages, and Computation |               |
+| Aditya Oscar Chakraborty | BMP202304 |          | 18:10 | 24.08.24 | Munkres                          | Topology                                                    |               |
+|                          |           |          | 18:10 | 24.08.24 | Rudin                            | Analysis                                                    |               |
+| Om Chaudhari             |           |          | 18:30 | 31.08.24 | Sheldon Ross                     | Analysis                                                    |               |
+|                          |           |          | 18:30 | 31.08.24 |                                  | excursion                                                   |               |
+|                          |           |          | 18:30 | 31.08.24 | Micheal Artin                    | Algebra                                                     |               |
+| Chinmay Shailesh Nandan  | MDS202414 |          | 18:30 | 31.08.24 | Fyodor Dostoyevsky               | Notes from Underground                                      |               |
+| Anwess Kumar Das         | BMC202210 |          | 18:17 | 21.09.24 | Jules Verne                      | Around the World in Eighty Days                             |               |
+| Raghuraj                 | BMC202323 |          | 18:30 | 29.09.24 | Apostol                          | Calculus                                                    |               |
+| Trishita Patra           | MDS202444 |          | 18:30 | 16.11.24 | Jibananda Das                    | The great poems of Jibananda Das (green book)               |               |
+|--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|
