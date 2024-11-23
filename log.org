@@ -107,4 +107,5 @@
 | Anwess Kumar Das         | BMC202210 |          | 18:17 | 21.09.24 | Jules Verne                      | Around the World in Eighty Days                             |               |
 | Raghuraj                 | BMC202323 |          | 18:30 | 29.09.24 | Apostol                          | Calculus                                                    |               |
 | Trishita Patra           | MDS202444 |          | 18:30 | 16.11.24 | Jibananda Das                    | The great poems of Jibananda Das (green book)               |               |
+| Shobhit Singh            | MCS202339 |          |       |          | Richard Bach                     | Jonathan Livinston Seagull                                  |               |
 |--------------------------+-----------+----------+-------+----------+----------------------------------+-------------------------------------------------------------+---------------|

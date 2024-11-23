@@ -139,43 +139,48 @@
 | Kaufmann                                                   | A Crash Course in Mathematica                                       |                            |
 | Venkatachala                                               | Functional Equations: A Problem Solving Approach                    |                            |
 | Sheldon Ross                                               | Introductory Statistics                                             |                            |
+| Frank W. Warner                                            | Foundations of Differentiable Manifolds and Lie Groups              |                            |
 |------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
 * Printed Books
 #+ATTR_HTML: :border 2 :frame all :rules all
-|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
-| Author                               | Title                                                                       | Notes                                       |
-|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
-| Kikoin, Kikoin                       | Molecular Physics                                                           |                                             |
-| Joos                                 | Theoritical Physics                                                         |                                             |
-| Symon                                | Mechanics 3e                                                                |                                             |
-| Irene, Verona, Schensted             | A Course on the Application of Group Theory to Quantum Mechanics            |                                             |
-| Wolfgang Demtroder                   | Aroms, Molecules and Photons                                                |                                             |
-| Alex J Dragt                         | Lie Methods for Nonlinear Dynamics with Applications to Accelerator Physics |                                             |
-| ECG Sudarshan                        | Foundations of Quantum Mechanics and Quantum Field Theory                   |                                             |
-| Murray Gell-mann                     | Lectures on The Weak Interaction of the Strongly Interacting Particles      |                                             |
-| Peskin, Schroeder                    | An Introduction to Quantum Field Theory                                     | only some chapters, solutions and notes     |
-|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
-| John B Conway                        | Functions of One Complex Variable 2e                                        |                                             |
-| Stewart, Tall                        | Algebraic Number Theory                                                     |                                             |
-| Blyth, Robertson                     | Algebra through Practice                                                    |                                             |
-| Fulton, Harris                       | Representation Theory: A First Course                                       |                                             |
-| ANdrew Baker                         | Representations of Finite Groups                                            |                                             |
-| Paul R Halmos                        | Finite Dimensional Vector Spaces                                            |                                             |
-| Narsimhan, Raghavan, Rangachari, Lal | Algebraic Number Theory                                                     |                                             |
-| Spivak                               | Calculus on Manifolds                                                       |                                             |
-| Hartshorne                           | Algebraic Geometry                                                          |                                             |
-| Ahlfors                              | Complex Analysis                                                            |                                             |
-| -                                    | Study Material on Real Analysis & Topology of Metric Spaces                 |                                             |
-| Rudin                                | Principles of Mathematical Analysis                                         |                                             |
-| Nathan Jacobson                      | Basic Algebra I                                                             |                                             |
-| Dmitri D Vvedensky                   | Printed version of his group theory course                                  | http://cmth.ph.ic.ac.uk/people/d.vvedensky/ |
-| Anant R Shastri                      | Lectures Notes in Algebraic Topology                                        |                                             |
-| Johnsonbaugh, Pfaffenberger          | Foundations of Mathemtical Analysis                                         |                                             |
-| Richard S Palais                     | A Modern Course on Curves and Surfaces                                      |                                             |
-| Sen, Ghosh, Mukhopadhyay             | Topics in Abstract Algebra 2e                                               |                                             |
-| Henri Cartan                         | Elementary Theory of Analytic Functions of One Or Several Complex Variables |                                             |
-| Stein, Shakarchi                     | Complex Analysis                                                            |                                             |
-| Grimmett, Stirzaker                  | Probability and Random Processes                                            |                                             |
-| Ross Hansberger                      | Mathematical Gems                                                           | Interesting Problems in Math                |
-| Gerald B Folland                     | Real Analysis                                                               |                                             |
-|--------------------------------------+-----------------------------------------------------------------------------+---------------------------------------------|
+|--------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------|
+| Author                               | Title                                                                       | Notes                                   |
+|--------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------|
+| Kikoin, Kikoin                       | Molecular Physics                                                           |                                         |
+| Joos                                 | Theoritical Physics                                                         |                                         |
+| Symon                                | Mechanics 3e                                                                |                                         |
+| Irene, Verona, Schensted             | A Course on the Application of Group Theory to Quantum Mechanics            |                                         |
+| Wolfgang Demtroder                   | Aroms, Molecules and Photons                                                |                                         |
+| Alex J Dragt                         | Lie Methods for Nonlinear Dynamics with Applications to Accelerator Physics |                                         |
+| ECG Sudarshan                        | Foundations of Quantum Mechanics and Quantum Field Theory                   |                                         |
+| Murray Gell-mann                     | Lectures on The Weak Interaction of the Strongly Interacting Particles      |                                         |
+| Peskin, Schroeder                    | An Introduction to Quantum Field Theory                                     | only some chapters, solutions and notes |
+|--------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------|
+| John B Conway                        | Functions of One Complex Variable 2e                                        |                                         |
+| Stewart, Tall                        | Algebraic Number Theory                                                     |                                         |
+| Blyth, Robertson                     | Algebra through Practice                                                    |                                         |
+| Fulton, Harris                       | Representation Theory: A First Course                                       |                                         |
+| ANdrew Baker                         | Representations of Finite Groups                                            |                                         |
+| Paul R Halmos                        | Finite Dimensional Vector Spaces                                            |                                         |
+| Narsimhan, Raghavan, Rangachari, Lal | Algebraic Number Theory                                                     |                                         |
+| Spivak                               | Calculus on Manifolds                                                       |                                         |
+| Hartshorne                           | Algebraic Geometry                                                          |                                         |
+| Ahlfors                              | Complex Analysis                                                            |                                         |
+| -                                    | Study Material on Real Analysis & Topology of Metric Spaces                 |                                         |
+| Rudin                                | Principles of Mathematical Analysis                                         |                                         |
+| Nathan Jacobson                      | Basic Algebra I                                                             |                                         |
+| Dmitri D Vvedensky                   | Printed version of his group theory course                                  | [[https://web.archive.org/web/20200117205714/http://www.cmth.ph.ic.ac.uk/people/d.vvedensky/courses.html][Link to an Archive of his notes]]         |
+| Anant R Shastri                      | Lectures Notes in Algebraic Topology                                        |                                         |
+| Johnsonbaugh, Pfaffenberger          | Foundations of Mathemtical Analysis                                         |                                         |
+| Richard S Palais                     | A Modern Course on Curves and Surfaces                                      |                                         |
+| Sen, Ghosh, Mukhopadhyay             | Topics in Abstract Algebra 2e                                               |                                         |
+| Henri Cartan                         | Elementary Theory of Analytic Functions of One Or Several Complex Variables |                                         |
+| Stein, Shakarchi                     | Complex Analysis                                                            |                                         |
+| Grimmett, Stirzaker                  | Probability and Random Processes                                            |                                         |
+| Ross Hansberger                      | Mathematical Gems                                                           | Interesting Problems in Math            |
+| Gerald B Folland                     | Real Analysis                                                               |                                         |
+|                                      | The Putnam Mathematical Competition Papers from 1970 to 2012                |                                         |
+| Jiri Matousek                        | Thirty-three Miniatures                                                     | Only some pages                         |
+| Mathematical Society of Japan        | Encyclopedic Dictionary of Mathematics 2nd edition: A-M                     |                                         |
+| Mathematical Society of Japan        | Encyclopedic Dictionary of Mathematics 2nd edition: N-Z                     |                                         |
+|--------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------|
