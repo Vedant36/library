@@ -7,5 +7,5 @@ html files are generated using emacs org-export-dispatch. files are copied to my
 2. A person can't take more than 2 books at a time, except for special circumstances.
 3. Information needed for every person: Batch, Full name, Date&Time, etc.
 4. The student managing the Student's Library has free control over the change of rules at any time.
-5. The student currently managing the Student's Library is Vedant Neema BMC202273.
+5. The student currently managing the Student's Library is Ojas Mehta BMP202404.
 ** Tasks
