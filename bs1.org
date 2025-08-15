@@ -44,6 +44,9 @@
 | J Willard Gibbs                                            | The Scientific Papers of J. Willard Gibbs                           |                            |
 | J Bruce Brackenridge                                       | The Key to Newton's Dynamics                                        |                            |
 | PK Chattopadhyay                                           | Mathematical Physics                                                |                            |
+| Donald H. Menzel                                           | Fundamental Formulas of Physics                                     |                            |
+| Wearie, Windsor                                            | Solid State Science                                                 |                            |
+| H C Verma                                                  | Concepts of Physics                                                 |                            |
 |------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
 | Dummit, Foote                                              | Abstract Algebra                                                    |                            |
 | I.N. Herstein                                              | Topics in Algebra                                                   |                            |
@@ -96,6 +99,7 @@
 | George F. Simons                                           | Topology and Modern Analysis                                        |                            |
 | Sevastyanov, Chistyakov, Zubkov                            | Problems in the Theory of Probablity                                |                            |
 | Banerjee, S.K. DE, S. Sen                                  | Mathematical Probablity                                             |                            |
+| Feller                                                     | An Introduction to Probability Theory and its Applications          |                            |
 | Gupta, Pandey, Malik                                       | Tensors and Differential Geometry                                   |                            |
 | S.L. Loney                                                 | The Elements of Coordinate Geometry                                 |                            |
 | The Association of Mathematics Teachers of India           | The Mathematics Teacher                                             |                            |
@@ -118,7 +122,6 @@
 | Balakrishnan                                               | Combinatorics - Schaum's Theory and Problems                        |                            |
 | Leithold                                                   | The Calculus with Analytic Geometry                                 |                            |
 | Debra Ross                                                 | Master Math: Calculus                                               |                            |
-| Feller                                                     | An Introduction to Probability Theory and its Applications          |                            |
 | Hazewinkel, Lenstra, Meertens                              | Mathematics and Computer Science II                                 |                            |
 | Gallian                                                    | Contemporary Abstract Algebra                                       |                            |
 | Jain, Ahmad                                                | Metric Spaces - Second Edition                                      |                            |
@@ -140,6 +143,9 @@
 | Venkatachala                                               | Functional Equations: A Problem Solving Approach                    |                            |
 | Sheldon Ross                                               | Introductory Statistics                                             |                            |
 | Frank W. Warner                                            | Foundations of Differentiable Manifolds and Lie Groups              |                            |
+| D J Struik                                                 | A Source Book in Mathematics 1200-1800                              |                            |
+| Carl B Boyer                                               | The History of the Calculus                                         |                            |
+| Wilbur Richard Knorr                                       | The Ancient Tradition of Geometric Problems                         |                            |
 |------------------------------------------------------------+---------------------------------------------------------------------+----------------------------|
 * Printed Books
 #+ATTR_HTML: :border 2 :frame all :rules all
@@ -156,29 +162,30 @@
 | Murray Gell-mann                     | Lectures on The Weak Interaction of the Strongly Interacting Particles      |                                         |
 | Peskin, Schroeder                    | An Introduction to Quantum Field Theory                                     | only some chapters, solutions and notes |
 |--------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------|
-| John B Conway                        | Functions of One Complex Variable 2e                                        |                                         |
-| Stewart, Tall                        | Algebraic Number Theory                                                     |                                         |
-| Blyth, Robertson                     | Algebra through Practice                                                    |                                         |
-| Fulton, Harris                       | Representation Theory: A First Course                                       |                                         |
-| ANdrew Baker                         | Representations of Finite Groups                                            |                                         |
-| Paul R Halmos                        | Finite Dimensional Vector Spaces                                            |                                         |
-| Narsimhan, Raghavan, Rangachari, Lal | Algebraic Number Theory                                                     |                                         |
+| T R Ramadas                          | Notes on Calculus                                                           |                                         |
 | Spivak                               | Calculus on Manifolds                                                       |                                         |
 | Hartshorne                           | Algebraic Geometry                                                          |                                         |
-| Ahlfors                              | Complex Analysis                                                            |                                         |
-| -                                    | Study Material on Real Analysis & Topology of Metric Spaces                 |                                         |
-| Rudin                                | Principles of Mathematical Analysis                                         |                                         |
-| Nathan Jacobson                      | Basic Algebra I                                                             |                                         |
-| Dmitri D Vvedensky                   | Printed version of his group theory course                                  | [[https://web.archive.org/web/20200117205714/http://www.cmth.ph.ic.ac.uk/people/d.vvedensky/courses.html][Link to an Archive of his notes]]         |
-| Anant R Shastri                      | Lectures Notes in Algebraic Topology                                        |                                         |
-| Johnsonbaugh, Pfaffenberger          | Foundations of Mathemtical Analysis                                         |                                         |
-| Richard S Palais                     | A Modern Course on Curves and Surfaces                                      |                                         |
-| Sen, Ghosh, Mukhopadhyay             | Topics in Abstract Algebra 2e                                               |                                         |
-| Henri Cartan                         | Elementary Theory of Analytic Functions of One Or Several Complex Variables |                                         |
-| Stein, Shakarchi                     | Complex Analysis                                                            |                                         |
-| Grimmett, Stirzaker                  | Probability and Random Processes                                            |                                         |
-| Ross Hansberger                      | Mathematical Gems                                                           | Interesting Problems in Math            |
 | Gerald B Folland                     | Real Analysis                                                               |                                         |
+| Ross Hansberger                      | Mathematical Gems                                                           | Interesting Problems in Math            |
+| Grimmett, Stirzaker                  | Probability and Random Processes                                            |                                         |
+| Stein, Shakarchi                     | Complex Analysis                                                            |                                         |
+| Henri Cartan                         | Elementary Theory of Analytic Functions of One Or Several Complex Variables |                                         |
+| Sen, Ghosh, Mukhopadhyay             | Topics in Abstract Algebra 2e                                               |                                         |
+| Richard S Palais                     | A Modern Course on Curves and Surfaces                                      |                                         |
+| Johnsonbaugh, Pfaffenberger          | Foundations of Mathemtical Analysis                                         |                                         |
+| Anant R Shastri                      | Lectures Notes in Algebraic Topology                                        |                                         |
+| Dmitri D Vvedensky                   | Printed version of his group theory course                                  | [[https://web.archive.org/web/20200117205714/http://www.cmth.ph.ic.ac.uk/people/d.vvedensky/courses.html][Link to an Archive of his notes]]         |
+| Nathan Jacobson                      | Basic Algebra I                                                             |                                         |
+| Rudin                                | Principles of Mathematical Analysis                                         |                                         |
+| -                                    | Study Material on Real Analysis & Topology of Metric Spaces                 |                                         |
+| Ahlfors                              | Complex Analysis                                                            |                                         |
+| Narsimhan, Raghavan, Rangachari, Lal | Algebraic Number Theory                                                     |                                         |
+| Paul R Halmos                        | Finite Dimensional Vector Spaces                                            |                                         |
+| ANdrew Baker                         | Representations of Finite Groups                                            |                                         |
+| Fulton, Harris                       | Representation Theory: A First Course                                       |                                         |
+| Blyth, Robertson                     | Algebra through Practice                                                    |                                         |
+| Stewart, Tall                        | Algebraic Number Theory                                                     |                                         |
+| John B Conway                        | Functions of One Complex Variable 2e                                        |                                         |
 |                                      | The Putnam Mathematical Competition Papers from 1970 to 2012                |                                         |
 | Jiri Matousek                        | Thirty-three Miniatures                                                     | Only some pages                         |
 | Mathematical Society of Japan        | Encyclopedic Dictionary of Mathematics 2nd edition: A-M                     |                                         |

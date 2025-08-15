@@ -48,6 +48,7 @@
 | Aho, Lam, Sethi, Ullman           | Compilers: Principles, Techniques and Tools                 |            |
 | Keith D. Cooper, Linda Torczon    | Engineering a Compiler                                      |            |
 | Cormen, Leiserson, Rivest, Stein  | Introductin to Algorithms                                   | CLRS, CRLS |
+| Cormen, Leiserson, Rivest, Stein  | Introductin to Algorithms                                   | CLRS, CRLS |
 | Yashavant Kanetkar                | Let us C - 3rd edition                                      |            |
 | Horstmann                         | Core Java: Volume I - Fundamentals                          |            |
 | Dasgupta, Papadimitriou, Vazirani | Algorithms                                                  |            |
